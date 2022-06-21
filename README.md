@@ -33,7 +33,7 @@ People which helped me creating this board and fixing stuff
 
 ## CASE
 
-[Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D print case (which uses acrylic too) for every layout.
+[Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D printed case (which uses acrylic too) for every layout.
 
 
 ## FIRMWARE
