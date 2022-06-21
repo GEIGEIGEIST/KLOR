@@ -1,6 +1,8 @@
 # KLOR BUILD GUIDE [WIP]
 
-## REQUIRED PARTS
+## PART LIST
+
+### REQUIRED PARTS
 
 | Part name     | Quantity | Remarks | 
 | ---           | ---      | ---     |
