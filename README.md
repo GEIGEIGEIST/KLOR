@@ -28,12 +28,12 @@ People which helped me creating this board and fixing stuff
 
 ## PCB 
 
-[Here](/PCB) you can find the KiCad files and Gerbers for the KLOR. 
+[Here](/PCB/) you can find the KiCad files and Gerbers for the KLOR. 
 
 
 ## CASE
 
-[Here](/case) are the case files for the KLOR. There is an acrylic case and a 3D print case (which uses acrylic too) for every layout.
+[Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D print case (which uses acrylic too) for every layout.
 
 
 ## FIRMWARE
