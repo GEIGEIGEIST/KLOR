@@ -13,6 +13,11 @@ Other inspirations are
 - [Yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) by [1m38](https://github.com/1m38)
 - [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
 - [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
+People which helped me creating this board and fixing stuff
+- [KarlK90](https://github.com/KarlK90)
+- [MangoIV](https://github.com/MangoIV)
+- [Jakob Kriener](https://github.com/Jakob170201)
+- [Microfortnight](https://github.com/microfortnight)
 
 ## LAYOUTS
 
@@ -26,14 +31,15 @@ Other inspirations are
 
 ## CASE
 
-[Here](https://github.com/GEIGEIGEIST/KLOR/case) are the case files for the KLOR. There is a acrylic case and a 3D Print case (which uses acrylic too) for every layout.
+[Here](https://github.com/GEIGEIGEIST/KLOR/case) are the case files for the KLOR. There is a acrylic case and a 3D print case (which uses acrylic too) for every layout.
 
 
 ## FIRMWARE
 
 [QMK config](https://github.com/GEIGEIGEIST/qmk-config-klor) for the KLOR (supports OLED, encoders, LEDs, haptic feedback and speakers)\
-[ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) for the KLOR (supports OLED, encoders, LEDs and Bluetooth)
+[ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) for the KLOR (supports OLED, encoders, LEDs and Bluetooth)\
+Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
 ## BUILD GUIDE
 
-Here 
+Here you can find the build guide for the KLOR.
