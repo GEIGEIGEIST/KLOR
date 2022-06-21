@@ -37,7 +37,7 @@ Here you can find the build guides for the KLOR.\
 Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
 
-## FOOTNOTES
+## REMARKS
 
 The KLORs hardware is based on the [Sofle](https://github.com/josefadamcik/SofleKeyboard) by [Josef Adamcik](https://github.com/josefadamcik).\
 Other inspirations are 
