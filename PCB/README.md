@@ -8,6 +8,8 @@ If you want to get the PCB made you need to add the files in the gerbers folder 
 ## CHECK TRACES OR PINOUT
 
 If you only want to check the traces or see what is connected to which pin you can take a look at these graphics.
+
+
 ![KLOR pinout](/docs/images/KLORpinout.png)
 ![KLOR traces](/docs/images/KLORtraces.png)
 
