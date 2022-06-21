@@ -16,10 +16,10 @@ Other inspirations are
 
 
 People which helped me creating this board and fixing stuff
-- [KarlK90](https://github.com/KarlK90)
-- [MangoIV](https://github.com/MangoIV)
-- [Jakob Kriener](https://github.com/Jakob170201)
-- [Microfortnight](https://github.com/microfortnight)
+- @KarlK90
+- @MangoIV
+- @0xCB-dev
+- @microfortnight
 
 ## LAYOUTS
 
