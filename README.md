@@ -44,6 +44,6 @@ Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in 
 
 ## BUILD GUIDE
 
-Here you can find the build guides for the KLOR.
+Here you can find the build guides for the KLOR.\
 [KLOR build guide](/docs/buildguide.md)\
 [KLOR BLE build guide](/docs/buildguide_ble.md)
