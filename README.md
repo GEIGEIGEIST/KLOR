@@ -14,6 +14,7 @@ Other inspirations are
 - [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
 - [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
 
+***
 
 People which helped me creating this board and fixing stuff
 - @KarlK90
