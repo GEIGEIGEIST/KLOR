@@ -12,7 +12,7 @@ Other inspirations are
 - [Kyria](https://splitkb.com/products/kyria-pcb-kit) by [Thomas Baart](https://github.com/splitkb)
 - [Yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) by [1m38](https://github.com/1m38)
 - [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
-- [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
+- [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)\
 People which helped me creating this board and fixing stuff
 - [KarlK90](https://github.com/KarlK90)
 - [MangoIV](https://github.com/MangoIV)
