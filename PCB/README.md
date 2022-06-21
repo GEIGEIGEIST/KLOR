@@ -1,7 +1,7 @@
 # KLOR PCB FILES
 
 ## MANUFACTURING
-If you want to get the PCB made you need to add the files in the gerbers folder to a ZIP file and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
+If you want to get the PCB made you need to add the files in the [gerbers folder](/PCB/klor1_3/gerbers/) to a ZIP file and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
 
 ![KLOR pcb](/docs/images/KLORpcb.png)
 
