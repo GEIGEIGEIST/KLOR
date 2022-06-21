@@ -35,6 +35,12 @@ People which helped me creating this board and fixing stuff
 
 [Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D printed case (which uses acrylic too) for every layout.
 
+## BUILD GUIDE
+
+Here you can find the build guides for the KLOR.\
+[KLOR build guide](/docs/buildguide.md) (QMK)\
+[KLOR BLE build guide](/docs/buildguide_ble.md) (ZMK)
+
 
 ## FIRMWARE
 
@@ -42,8 +48,3 @@ People which helped me creating this board and fixing stuff
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) for the KLOR (supports OLED, encoders, LEDs and Bluetooth)\
 Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
-## BUILD GUIDE
-
-Here you can find the build guides for the KLOR.\
-[KLOR build guide](/docs/buildguide.md) (QMK)\
-[KLOR BLE build guide](/docs/buildguide_ble.md) (ZMK)
