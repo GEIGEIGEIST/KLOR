@@ -7,20 +7,7 @@
 # KLOR SPLIT KEYBOARD
 
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, speakers, a Pixart Paw3204 trackball, the [SplitKB tenting puck](https://splitkb.com/products/tenting-puck) and four different layouts, through brake off parts.\
-It's hardware is based on the [Sofle](https://github.com/josefadamcik/SofleKeyboard) by [Josef Adamcik](https://github.com/josefadamcik).\
-Other inspirations are 
-- [Kyria](https://splitkb.com/products/kyria-pcb-kit) by [Thomas Baart](https://github.com/splitkb)
-- [Yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) by [1m38](https://github.com/1m38)
-- [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
-- [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
 
-***
-
-People which helped me creating this board and fixing stuff
-- [KarlK90](https://github.com/KarlK90)
-- [MangoIV](https://github.com/MangoIV)
-- [OxCB](https://github.com/0xCB-dev)
-- [MicroFortnight](microfortnight)
 
 ## LAYOUTS
 
@@ -49,3 +36,20 @@ Here you can find the build guides for the KLOR.\
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) for the KLOR (supports OLED, encoders, LEDs and Bluetooth)\
 Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
+
+## FOOTNOTES
+
+The KLORs hardware is based on the [Sofle](https://github.com/josefadamcik/SofleKeyboard) by [Josef Adamcik](https://github.com/josefadamcik).\
+Other inspirations are 
+- [Kyria](https://splitkb.com/products/kyria-pcb-kit) by [Thomas Baart](https://github.com/splitkb)
+- [Yacc46](https://github.com/1m38/keyboards/tree/main/yacc46) by [1m38](https://github.com/1m38)
+- [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
+- [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
+
+***
+
+People which helped me creating this board and fixing stuff
+- [KarlK90](https://github.com/KarlK90)
+- [MangoIV](https://github.com/MangoIV)
+- [OxCB](https://github.com/0xCB-dev)
+- [MicroFortnight](microfortnight)
