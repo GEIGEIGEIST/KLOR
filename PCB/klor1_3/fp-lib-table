@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "KLOR")(type "KiCad")(uri "${KIPRJMOD}/KLOR.pretty")(options "")(descr ""))
+)
