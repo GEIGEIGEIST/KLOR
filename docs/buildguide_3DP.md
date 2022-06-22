@@ -49,11 +49,39 @@
 
 ## INTRODUCTION
 
-Here you can see an overview on which side each component needs to be soldered. Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
-Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible.
+Here you can see an overview on which side each component needs to be soldered (you can click on the image so see a larger version of it). Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
+Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible./
+Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
+
 
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
 
 ## BREAK OFF PARTS (optional)
 
-If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. 
+If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. Alternatively you can use a boxcutter to carve in grooves, which makes it easier to break on the right spot. Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
+
+
+## MICROCONTROLLER
+
+----------------------- ------------------------------------
+![Tip](/docs/images/tip.png)\ Table multiline text bla bla bla bla
+                        bla bla bla bla bla bla bla ... the
+                        blank line below is important 
+:warning:
+
+----------------------------------------------------------------
+
+
+## LEDS (optional)
+
+| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| --- |
+
+
+## DIODES
+
+## SWITCH SOCKETS
+
+
+
+## 
