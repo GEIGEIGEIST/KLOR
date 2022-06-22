@@ -113,6 +113,9 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
+> **Note**
+> If you use a layout with three thumbs instead of four you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
+>![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
 
 ## DIODES
