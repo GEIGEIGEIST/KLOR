@@ -58,7 +58,10 @@ Generally speaking you should start with the lowest components and work your way
 
 ## BREAK OFF PARTS (optional)
 
-If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. Alternatively you can use a boxcutter to carve in grooves, which makes it easier to break on the right spot. Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
+
+If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. Alternatively you can use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
+> **Warning**
+> Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
 
 
 ## MICROCONTROLLER
@@ -67,14 +70,8 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 ## LEDS (optional)
 
-| :warning: **WARNING:** be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator!|
-| --- |
 
-> :warning: **WARNING:** be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator!
 
-``
-:warning: **WARNING:** be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator! be careful to baz the quux before initializing the retro encabulator!
-``
 
 ## DIODES
 
@@ -87,4 +84,4 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 > **Warning**
 > This is a warning
 
-## 
+
