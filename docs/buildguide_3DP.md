@@ -56,4 +56,4 @@ Some people like to mark top and bottom with masking tape to keep track of top a
 
 ## BREAK OFF PARTS (optional)
 
-If you decided on [another layout](/#layouts) than the Polydactyl you should remove the unnecessary parts. 
+If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. 
