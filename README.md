@@ -46,7 +46,7 @@ Other inspirations are
 - [Elephant42](https://github.com/illness072/elephant42) by [illness072](https://github.com/illness072)
 - [Torn](https://github.com/rtitmuss/torn) by [Richard Titmuss](https://github.com/rtitmuss)
 
-I used the Pimoroni Haptic Buzz Footprint from the the [Buzzard](https://github.com/crehmann/Buzzard) by [Christoph Rehmann](https://github.com/crehmann).
+I used the Pimoroni Haptic Buzz Footprint from the [Buzzard](https://github.com/crehmann/Buzzard) by [Christoph Rehmann](https://github.com/crehmann).
 
 ***
 
