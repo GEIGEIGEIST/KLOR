@@ -63,22 +63,22 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 ## MICROCONTROLLER
 
------------------------ ------------------------------------
-![Tip](/docs/images/tip.png)\ Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
-:warning:
-
-----------------------------------------------------------------
 
 
 ## LEDS (optional)
 
-| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| :warning: **WARNING:** be careful to baz the quux before initializing the retro encabulator! |
 | --- |
+
+> :warning: **WARNING:** be careful to baz the quux before initializing the retro encabulator!
+
 
 
 ## DIODES
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+I am an error message
+</div>
 
 ## SWITCH SOCKETS
 
