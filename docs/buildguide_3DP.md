@@ -95,6 +95,9 @@ Now place your microcontroller on the pins (components facing the PCB) and solde
 
 ## LEDS (optional)
 
+Since you should try to keep the solder iron only as long near the LED as you really need to it's a good idea to solder the pads on the PCB bottom first and than insert the LED.
+**IMAGE**
+
 While the bottom of the PCB is facing you insert the LEDs in the holes with the glass part away from you.\
 **IMAGE**
 
@@ -107,7 +110,9 @@ The L shaped pad on the LED needs to be connected to the pad on the PCB marked w
 > **Warning**
 > It's recommended to solder the LEDs in at 220º, since they can't handle heat very good. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Than do the second pad, starting at the first LED. This way they can cool down in the meantime.
 
-**IMAGE**
+
+
+
 
 The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. Here you can find the order in which the LEDs are chained together.
 
@@ -120,6 +125,9 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 
 ## DIODES
+
+The orientation of the diodes matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+
 
 ## SWITCH SOCKETS
 
