@@ -94,13 +94,23 @@ Unlike most boards the microcontroller needs to be mounted on the bottom, with t
 
 ## OLEDs
 
+> **Warning**
+> Be sure you make sure the keyboard is fully functional before soldering the OLEDs, since they are the only components which covers pins, you can't access after the OLEDs are in place.
+
 ## ENCODERS
 
+## 3DP CASE
+
+## ACRYLIC PARTS
+
+## FIRMWARE
 
 
 
 
 
+> **Check**
+> This is OK
 
 > **Note**
 > This is a note
@@ -109,3 +119,17 @@ Unlike most boards the microcontroller needs to be mounted on the bottom, with t
 > This is a warning
 
 
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
