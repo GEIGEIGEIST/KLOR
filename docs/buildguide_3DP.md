@@ -54,7 +54,7 @@ Here you can see an overview on which side each component needs to be soldered (
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
 
 Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
-Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible./
+Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible.\
 Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
 
 ## BREAK OFF PARTS (optional)
@@ -91,9 +91,29 @@ Than flip it again and insert the pins in the sockets.
 Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
 **IMAGE**
 
+
+
 ## LEDS (optional)
 
-While the bottom of the PCB is facing you insert the LEDs 
+While the bottom of the PCB is facing you insert the LEDs in the holes with the glass part away from you.\
+**IMAGE**
+
+Here you can see an image of how the LEDs needs to be rotated.\
+**IMAGE**\
+The L shaped pad on the LED needs to be connected to the pad on the PCB marked with a square. 
+> **Note**
+> Note that while the orientation is the same on every half it's different between both halves.
+
+> **Warning**
+> It's recommended to solder the LEDs in at 220º, since they can't handle heat very good. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Than do the second pad, starting at the first LED. This way they can cool down in the meantime.
+
+**IMAGE**
+
+The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. Here you can find the order in which the LEDs are chained together.
+
+![KLOR LED order](/docs/images/KLOR_LEDorder.png)
+
+
 
 ## DIODES
 
