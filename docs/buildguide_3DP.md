@@ -49,15 +49,13 @@
 
 ## INTRODUCTION
 
-Here you can see an overview on which side each component needs to be soldered (you can click on the image so see a larger version of it). Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
-Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible./
-Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
-
-
+Here you can see an overview on which side each component needs to be soldered (you can click on the image so see a larger version of it).
 
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
 
-
+Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
+Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible./
+Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
 
 ## BREAK OFF PARTS (optional)
 
@@ -79,19 +77,23 @@ You can choose the included header pins, but it's highly recommended to use Mill
 Place the sockets on the bottom side of the PCB in the marked spots.\
 **IMAGE**
 
-You can keep them in place by using masking tape. 
+You can keep them in place by using masking tape.\
 **IMAGE**
 
 Than you can flip the board to solder in the sockets from the top.
 Than flip it again and insert the pins in the sockets.
 
 > **Note**
-> Use a plier to insert them. Don't apply to much force, you'll will feel if they're snap in. After snapped in you can carefully apply some pressure from above using a flat object, to make sure they're fully seated.  
+> Use a plier to insert them. Don't apply to much force, you'll will feel if they're snap in. After snapped in you can carefully apply some pressure from above, using a flat object, to make sure they're fully seated. 
+
 **IMAGE**
 
-
+Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
+**IMAGE**
 
 ## LEDS (optional)
+
+While the bottom of the PCB is facing you insert the LEDs 
 
 ## DIODES
 
