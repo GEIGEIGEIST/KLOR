@@ -66,6 +66,7 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 > **Warning**
 > Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
 
+**IMAGE**
 
 
 ## MICROCONTROLLER
@@ -74,6 +75,20 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 > First step should be to flash the microcontroller. This way you can make sure it works before soldering it in. Another advantage is that you can confirm the LEDs work, while soldering them.
 
 Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
+You can choose the included header pins, but it's highly recommended to use MillMax low profile sockets.\
+Place the sockets on the bottom side of the PCB in the marked spots.\
+**IMAGE**
+
+You can keep them in place by using masking tape. 
+**IMAGE**
+
+Than you can flip the board to solder in the sockets from the top.
+Than flip it again and insert the pins in the sockets.
+
+> **Note**
+> Use a plier to insert them. Don't apply to much force, you'll will feel if they're snap in. After snapped in you can carefully apply some pressure from above using a flat object, to make sure they're fully seated.  
+**IMAGE**
+
 
 
 ## LEDS (optional)
@@ -109,27 +124,10 @@ Unlike most boards the microcontroller needs to be mounted on the bottom, with t
 
 
 
-> **Check**
-> This is OK
+
 
 > **Note**
 > This is a note
 
 > **Warning**
 > This is a warning
-
-
-> [!NOTE]
-> Information the user should notice even if skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]
-> Essential information required for user success.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
-> [!WARNING]
-> Dangerous certain consequences of an action.
