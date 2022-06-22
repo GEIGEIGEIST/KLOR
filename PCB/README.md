@@ -12,6 +12,7 @@ If you only want to check the traces or see what is connected to which pin you c
 
 ![KLOR pinout](/docs/images/KLORpinout.png)
 ![KLOR traces](/docs/images/KLORtraces.png)
+![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
 
 ## TAKE A DEEPER LOOK OR MODIFY 
