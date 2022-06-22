@@ -49,6 +49,11 @@
 
 ## INTRODUCTION
 
-Here you can see an overview where each component needs to be soldered.
+Here you can see an overview on which side each component needs to be soldered. Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
+Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible.
 
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
+
+## BREAK OFF PARTS (optional)
+
+If you decided on [another layout](/#layouts) than the Polydactyl you should remove the unnecessary parts. 
