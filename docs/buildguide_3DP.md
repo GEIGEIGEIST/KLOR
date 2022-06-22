@@ -54,31 +54,52 @@ Some people like to mark top and bottom with masking tape to keep track of top a
 Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
 
 
+
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
+
+
 
 ## BREAK OFF PARTS (optional)
 
-
 If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. Alternatively you can use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
+
 > **Warning**
 > Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
+
 
 
 ## MICROCONTROLLER
 
 > **Warning**
-> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in. 
+> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in. Another advantage is that you can confirm the LEDs work, while soldering them.
 
-Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB). 
+Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
+
 
 ## LEDS (optional)
-
-
-
 
 ## DIODES
 
 ## SWITCH SOCKETS
+
+## RESET SWITCHES
+
+## TRRS SOCKETS
+
+## HAPTIC FEEDBACK (optional)
+
+## SPEAKER (optional)
+
+## TRACKBALL (optional)
+
+## OLEDs
+
+## ENCODERS
+
+
+
+
+
 
 
 > **Note**
