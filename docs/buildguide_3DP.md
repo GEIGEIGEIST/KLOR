@@ -66,7 +66,10 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 ## MICROCONTROLLER
 
+> **Warning**
+> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in. 
 
+Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB). 
 
 ## LEDS (optional)
 
