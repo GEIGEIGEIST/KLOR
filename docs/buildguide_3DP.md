@@ -97,7 +97,7 @@ Flip it again and insert the pins in the sockets.
 > **Note**
 > Use a plier to insert them. Don't use too much force, you will feel them snap in. After that you can carefully apply some pressure , using a flat object, to make sure they're fully seated. 
 
-**IMAGE**
+![MCU pins](/docs/images/buildguide/MCU_pins.jpg)
 
 
 Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
@@ -107,7 +107,7 @@ You can use flush cutters to trim the header pins.
 
 
 > **Warning**
-> When trimming flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around.
+> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around and hurt you.
 
 
 ***
@@ -214,8 +214,11 @@ You may want to use some masking tape to hold it in place, since you need to sol
 > **Note**
 > Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK.
 
-Apply some solder to the jumpers on the top to bridge them.\
-**IMAGE**
+
+Apply some solder to the jumpers on the top to bridge them.
+
+![haptic feedback Jumper](/docs/images/buildguide/haptic_jumper.jpg)
+
 
 Insert the module from below, with the motor facing upwards. Than insert the pin headers from below.\
 **IMAGE**
@@ -272,11 +275,16 @@ First step should be to bridge the jumpers on the top of the PCB, next to the OL
 > **Note**
 > The OLED needs to be as flush to the PCB as possible to fit under the switchplate.
 
-You need to remove the plastic part from the headers, which is usually attached to the OLED, while keaping the pins. For me the easiest way is to use flush cutters to snap the plastic in half, which makes the parts easy to remove with tweezers. You probably need to bend the pins back in place after this.\
-**IMAGE**
 
-You also need to cover the back of the OLED with electrical tape, to prevent shorts with the microcontroller pins. Especially the top part with the copper traces is important.\
-**IMAGE**
+You need to remove the plastic part from the headers, which is usually attached to the OLED, while keeping the pins. For me the easiest way is to use flush cutters to snap the plastic in half, which lets you remove the parts easily. You probably need to bend the pins back in place after doing this.
+
+![OLED pin split](/docs/images/buildguide/OLED_split.jpg)
+
+
+You also need to cover the back of the OLED with electrical tape, to prevent shorts with the microcontroller pins. Especially the top part with the copper traces is important.
+
+![OLED tape on bottom](/docs/images/buildguide/OLED_tape_bottom.jpg)
+
 
 Insert the OLED on the top of the PCB. Make sure it sits as flush to the PCB as possible. Maybe hold it in place with some masking tape.
 
@@ -309,7 +317,7 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 ## OVERVIEW
 
-This is how your finished PCB probably will look like.
+This is how your finished PCB probably will look like. You can use an old toothbrush and some isopropanol to clean it from residues. 
 
 ![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
 
