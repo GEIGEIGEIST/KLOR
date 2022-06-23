@@ -1,8 +1,3 @@
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
-
 # KLOR BUILD GUIDE (3DP CASE) [WIP]
 
 ## PART LIST
@@ -218,19 +213,52 @@ TBA
 > **Warning**
 > Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which covers pins, you can't access after the OLEDs are in place.
 
-First step should be to bridge the jumpers on the top of the PCB, next to the OLED.
+First step should be to bridge the jumpers on the top of the PCB, next to the OLED.\
 **IMAGE**
 
+> **Note**
+> The OLED needs to be as flush to the PCB as possible to fit under the switchplate.
+
+You need to remove the plastic part from the headers, which is usually attached to the OLED, while keaping the pins. For me the easiest way is to use flush cutters to snap the plastic in half, which makes the parts easy to remove with tweezers. You probably need to bend the pins back in place after this.\
+**IMAGE**
+
+You also need to cover the back of the OLED with electrical tape, to prevent shorts with the microcontroller pins. Especially the top part with the copper traces is important.\
+**IMAGE**
+
+Insert the OLED on the top of the PCB. Make sure it sits as flush to the PCB as possible. Maybe hold it in place with some masking tape.
+
+> **Note**
+> You could also temporarily install the switchplate over the OLED, using a few switches. This way you make sure it's exactly in the right spot and rotation.
+
+Solder the OLED into place.\
+**IMAGE**
+
+Now use flush cutters to trim the top and bottom pins. Especially the top pins should be as short as possible to avoid interference with the switch plate.\
+**IMAGE**
+
+If you use a metal switch plate consider to cover them with electrical tape to prevent shorts.\
+**IMAGE**
+
+> **Note**
+> If you need to desolder the OLED or fix it's placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
+
+**IMAGE**
 
 
 
 ## ENCODERS
 
+Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
+**IMAGE**
+
+
 
 ## OVERVIEW
 
-This is how your PCB should probably look like.
+This is how your finished PCB probably will look like.
+
 ![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
+
 
 
 ## 3DP CASE
