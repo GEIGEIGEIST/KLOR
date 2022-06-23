@@ -49,20 +49,20 @@
 
 ## INTRODUCTION
 
-Here you can see an overview on which side each component needs to be soldered (you can click on the image so see a larger version of it).
+Here is an overview on which side each component needs to be soldered (you can click on the image to see a larger version).
 
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
 
 Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
 Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible.\
-Generally speaking you should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
+You should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
 
 ## BREAK OFF PARTS (optional)
 
-If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. Alternatively you can use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
+If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. You can also use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
 
 > **Warning**
-> Be very careful with this step, since there is a risk to break your PCB. You should consider to do this first, since you won't loose all soldered parts if you really break the PCB.
+> Be very careful with this step, since there is a risk to break your PCB. Probably start with this step, since you won't loose all soldered parts if you really break the PCB.
 
 **IMAGE**
 
@@ -70,7 +70,7 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 ## MICROCONTROLLER
 
 > **Warning**
-> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in. Another advantage is that you can confirm the LEDs work, while soldering them.
+> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in.
 
 Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
 You can choose the included header pins, but it's highly recommended to use MillMax low profile sockets.\
@@ -81,10 +81,10 @@ You can keep them in place by using masking tape.\
 **IMAGE**
 
 Than you can flip the board to solder in the sockets from the top.
-Than flip it again and insert the pins in the sockets.
+Flip it again and insert the pins in the sockets.
 
 > **Note**
-> Use a plier to insert them. Don't apply to much force, you'll will feel if they're snap in. After snapped in you can carefully apply some pressure from above, using a flat object, to make sure they're fully seated. 
+> Use a plier to insert them. Don't use too much force, you will feel them snap in. After that you can carefully apply some pressure , using a flat object, to make sure they're fully seated. 
 
 **IMAGE**
 
@@ -95,31 +95,31 @@ Now place your microcontroller on the pins (components facing the PCB) and solde
 
 ## LEDS (optional)
 
-Since you should try to keep the solder iron only as long near the LED as you really need to it's a good idea to solder the pads on the PCB bottom first and than insert the LED.
+LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and than insert the LED.
 **IMAGE**
 
-While the bottom of the PCB is facing you insert the LEDs in the holes with the glass part away from you.\
+While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.\
 **IMAGE**
 
-Here you can see an image of how the LEDs needs to be rotated.\
+Here you can see an image of the correct orientation.\
 **IMAGE**\
-The L shaped pad on the LED needs to be connected to the pad on the PCB marked with a square. 
+The L shaped pad on the LED needs to be connected to the square marked pad. 
 > **Note**
-> Note that while the orientation is the same on every half it's different between both halves.
+> While the orientation is the same on every half, it's different between both halves.
 
 > **Warning**
-> It's recommended to solder the LEDs in at 220º, since they can't handle heat very good. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Than do the second pad, starting at the first LED. This way they can cool down in the meantime.
+> It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Than solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
 
 
 
 
-The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. Here you can find the order in which the LEDs are chained together.
+The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. This graphic shows in which order the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
 > **Note**
-> If you use a layout with three thumbs instead of four you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
+> If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
 
 ![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
@@ -144,7 +144,7 @@ The orientation of the diodes matters. They have a small line on one side, which
 ## OLEDs
 
 > **Warning**
-> Be sure you make sure the keyboard is fully functional before soldering the OLEDs, since they are the only components which covers pins, you can't access after the OLEDs are in place.
+> Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which covers pins, you can't access after the OLEDs are in place.
 
 ## ENCODERS
 
