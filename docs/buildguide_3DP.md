@@ -1,3 +1,8 @@
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
 # KLOR BUILD GUIDE (3DP CASE) [WIP]
 
 ## PART LIST
@@ -142,9 +147,8 @@ The diodes needs to be soldered on the bottomm of the PCB. Their orientation mat
 Apply a small amount of solder on one pad.\
 **IMAGE**
 
-<p align="center">
-![diode orientation](/docs/images/buildguide/diodes_dark.svg)
-</p>
+![diode orientation](/docs/images/buildguide/diodes_dark.svg#center)
+
 
 Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.\
 **IMAGE**
