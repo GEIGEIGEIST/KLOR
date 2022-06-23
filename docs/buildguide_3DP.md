@@ -57,6 +57,8 @@ Be aware that some components needs to be soldered on the opposite side for the 
 Some people like to mark top and bottom with masking tape to keep track of top and bottom, since the PCB is reversible.\
 You should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
 
+***
+
 ## BREAK OFF PARTS (optional)
 
 If you decided on [another layout](/README.md#layouts) than the Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. You can also use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
@@ -253,7 +255,7 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 ## ENCODERS
 
-Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
+Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.\
 **IMAGE**
 
 ***
@@ -271,6 +273,10 @@ This is how your finished PCB probably will look like.
 ***
 
 ## ACRYLIC PARTS
+
+***
+
+## KNOBS
 
 ***
 
