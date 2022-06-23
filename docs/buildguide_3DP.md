@@ -66,7 +66,7 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 > **Warning**
 > Be very careful with this step, since there is a risk to break your PCB. Probably start with this step, since you won't loose all soldered parts if you really break the PCB.
 
-**IMAGE**
+![break off parts](/docs/images/buildguide/breakoff.jpg)
 
 ***
 
