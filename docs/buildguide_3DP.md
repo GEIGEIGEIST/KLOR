@@ -68,8 +68,11 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 ![break off parts](/docs/images/buildguide/breakoff.jpg)
 
-***
 
+You can use a file to smooth out the edges, but you should wear a mask while doing this, since the FR4 dust is considered to be toxic.
+
+
+***
 
 ## MICROCONTROLLER
 
