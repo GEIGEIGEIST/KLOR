@@ -80,7 +80,7 @@ Place the sockets on the bottom side of the PCB in the marked spots.\
 You can keep them in place by using masking tape.\
 **IMAGE**
 
-Than you can flip the board to solder in the sockets from the top.
+Then you can flip the board to solder in the sockets from the top.
 Flip it again and insert the pins in the sockets.
 
 > **Note**
@@ -98,7 +98,7 @@ You can use flush cutters to trim the header pins.
 
 ## LEDS (optional)
 
-LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and than insert the LED.\
+LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and then insert the LED.\
 **IMAGE**
 
 While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.\
@@ -111,7 +111,7 @@ The L shaped pad on the LED needs to be connected to the square marked pad.
 > While the orientation is the same on every half, it's different between both halves.
 
 > **Warning**
-> It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Than solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
+> It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
 
 
@@ -129,7 +129,7 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 ## DIODES
 
-The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.\
+The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
@@ -137,8 +137,26 @@ The diodes needs to be soldered on the bottomm of the PCB. Their orientation mat
   <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
 </picture>
 
+Apply a small amount of solder on one pad.\
+**IMAGE**
+
+Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.\
+**IMAGE**
+
+Now solder the second pad.
+
+
 
 ## SWITCH SOCKETS
+
+Here you can use the same technique than the one used for the diodes: Apply some solder on one of the pads first. \
+**IMAGE**
+
+Than place the switch socket in the silk screen markings and reheat the solder. Make sure you apply some pressure with tweezers, so make sure the socket is fully seated.\
+Now solder the second pad of the socket.\
+**IMAGE**
+
+
 
 ## RESET SWITCHES
 
