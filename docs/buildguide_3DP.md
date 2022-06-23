@@ -147,9 +147,6 @@ The diodes needs to be soldered on the bottomm of the PCB. Their orientation mat
 Apply a small amount of solder on one pad.\
 **IMAGE**
 
-![diode orientation](/docs/images/buildguide/diodes_dark.svg)
-
-
 Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.\
 **IMAGE**
 
@@ -170,22 +167,71 @@ Now solder the second pad of the socket.\
 
 ## RESET SWITCHES
 
+You soldered everything which goes on the bottom of the PCB. 
 The reset switches are kinda fiddly to solder. 
 
-## TRRS SOCKETS
+
+
+## TRRS JACKS
+
+Install the TRRS jack on the top side of the PCB. The place where you should insert it is marked with a white line.
+You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.\
+**IMAGE**
+
+
 
 ## HAPTIC FEEDBACK (optional)
 
+> **Note**
+> Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK.
+
+Apply some solder to the jumpers on the top to bridge them.\
+**IMAGE**
+
+Insert the module from below, with the motor facing upwards. Than insert the pin headers from below.\
+**IMAGE**
+
+Now you can solder the pins and use a flush cutter to snap of the excess. Again please hold your hand above them or wear eye protection while doing this.
+You can also use a screw and a nut to stabilize the module further. But this step isn't necessary.\
+**IMAGE**
+
+
+
 ## SPEAKER (optional)
 
+> **Note**
+> Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK. Unfortunately the audio feature of QMK doesn't work yet with the RP2040.
+
+Soldering the speaker is pretty straight forwarded. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. Than apply solder to the other pad.\
+**image**
+
+
 ## TRACKBALL (optional)
+> **Note**
+> While the hardware side should work fine, I still need to add the code for the trackball.
+
+TBA
+
 
 ## OLEDs
 
 > **Warning**
 > Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which covers pins, you can't access after the OLEDs are in place.
 
+First step should be to bridge the jumpers on the top of the PCB, next to the OLED.
+**IMAGE**
+
+
+
+
 ## ENCODERS
+
+
+## OVERVIEW
+
+This is how your PCB should probably look like.
+![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
+
 
 ## 3DP CASE
 
