@@ -144,11 +144,15 @@ The diodes needs to be soldered on the bottomm of the PCB. Their orientation mat
 </picture>
 </p>
 
-Apply a small amount of solder on one pad.\
+Apply a small amount of solder on one pad.
+
 ![Solder on one pad](/docs/images/buildguide/diode01.jpg)
 
-Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.\
+
+Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
+
 ![Solder diode](/docs/images/buildguide/diode02.jpg)
+
 
 Now you can solder the second pad.
 
