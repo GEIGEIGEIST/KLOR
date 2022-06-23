@@ -246,6 +246,15 @@ TBA
 
 ***
 
+## ENCODERS
+
+Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
+
+![encoder](/docs/images/buildguide/encoder.jpg)
+
+
+***
+
 ## OLEDs
 
 > **Warning**
@@ -291,15 +300,6 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 > If you need to desolder the OLED or fix it's placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
 
 ![OLED desolder](/docs/images/buildguide/OLED_fix.jpg)
-
-
-***
-
-## ENCODERS
-
-Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
-
-![encoder](/docs/images/buildguide/encoder.jpg)
 
 
 ***
