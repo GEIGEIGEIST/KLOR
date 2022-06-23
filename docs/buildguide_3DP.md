@@ -70,6 +70,7 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 ***
 
+
 ## MICROCONTROLLER
 
 > **Warning**
@@ -77,11 +78,15 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
 You can choose the included header pins, but it's highly recommended to use MillMax low profile sockets.\
-Place the sockets on the bottom side of the PCB in the marked spots.\
-**IMAGE**
+Place the sockets on the bottom side of the PCB in the marked spots.
 
-You can keep them in place by using masking tape.\
-**IMAGE**
+![MCU sockets](/docs/images/buildguide/MCU_sockets.jpg)
+
+
+You can keep them in place by using masking tape.
+
+![sockets taped](/docs/images/buildguide/MCU_tape.jpg)
+
 
 Then you can flip the board to solder in the sockets from the top.
 Flip it again and insert the pins in the sockets.
@@ -91,12 +96,16 @@ Flip it again and insert the pins in the sockets.
 
 **IMAGE**
 
+
 Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
 You can use flush cutters to trim the header pins.
-**IMAGE**
+
+![MCU solder](/docs/images/buildguide/MCU_solder.jpg)
+
 
 > **Warning**
 > When trimming flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around.
+
 
 ***
 
@@ -150,6 +159,9 @@ The L shaped pad on the LED needs to be connected to the square marked pad.
 > **Warning**
 > It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
+Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB.\
+**IMAGE**
+
 The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. This graphic shows in which order the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
@@ -159,16 +171,20 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 ![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
+
 ***
 
 ## SWITCH SOCKETS
 
-Here you can use the same technique than the one used for the diodes: Apply some solder on one of the pads first. \
-**IMAGE**
+Here you can use the same technique than the one used for the diodes: Apply some solder on one of the pads first.
+
+![switch sockets pad](/docs/images/buildguide/switch_pad.jpg)
+
 
 Than place the switch socket in the silk screen markings and reheat the solder. Make sure you apply some pressure with tweezers, so make sure the socket is fully seated.\
 Now solder the second pad of the socket.\
 **IMAGE**
+
 
 ***
 
@@ -177,13 +193,16 @@ Now solder the second pad of the socket.\
 You soldered everything which goes on the bottom of the PCB. 
 The reset switches are kinda fiddly to solder. 
 
+
 ***
 
 ## TRRS JACKS
 
 Install the TRRS jack on the top side of the PCB. The place where you should insert it is marked with a white line.
-You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.\
-**IMAGE**
+You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
+
+![TRRS taped](/docs/images/buildguide/TRRS_tape.jpg)
+
 
 ***
 
@@ -198,9 +217,12 @@ Apply some solder to the jumpers on the top to bridge them.\
 Insert the module from below, with the motor facing upwards. Than insert the pin headers from below.\
 **IMAGE**
 
+
 Now you can solder the pins and use a flush cutter to snap of the excess. Again please hold your hand above them or wear eye protection while doing this.
-You can also use a screw and a nut to stabilize the module further. But this step isn't necessary.\
-**IMAGE**
+You can also use a screw and a nut to stabilize the module further. But this step isn't necessary.
+
+![haptic feedback solder](/docs/images/buildguide/haptic_solder.jpg)
+
 
 ***
 
@@ -209,8 +231,10 @@ You can also use a screw and a nut to stabilize the module further. But this ste
 > **Note**
 > Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK. Unfortunately the audio feature of QMK doesn't work yet with the RP2040.
 
-Soldering the speaker is pretty straight forwarded. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. Than apply solder to the other pad.\
-**image**
+Soldering the speaker is pretty straight forwarded. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. Than apply solder to the other pad.
+
+![speaker](/docs/images/buildguide/speaker.jpg)
+
 
 ***
 
@@ -227,8 +251,11 @@ TBA
 > **Warning**
 > Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which covers pins, you can't access after the OLEDs are in place.
 
-First step should be to bridge the jumpers on the top of the PCB, next to the OLED.\
-**IMAGE**
+
+First step should be to bridge the jumpers on the top of the PCB, next to the OLED.
+
+![OLED bridge jumpers](/docs/images/buildguide/OLED_bridge.jpg)
+
 
 > **Note**
 > The OLED needs to be as flush to the PCB as possible to fit under the switchplate.
@@ -244,26 +271,36 @@ Insert the OLED on the top of the PCB. Make sure it sits as flush to the PCB as 
 > **Note**
 > You could also temporarily install the switchplate over the OLED, using a few switches. This way you make sure it's exactly in the right spot and rotation.
 
-Solder the OLED into place.\
-**IMAGE**
 
-Now use flush cutters to trim the top and bottom pins. Especially the top pins should be as short as possible to avoid interference with the switch plate.\
-**IMAGE**
+Solder the OLED into place.
 
-If you use a metal switch plate consider to cover them with electrical tape to prevent shorts.\
-**IMAGE**
+![OLED soldering](/docs/images/buildguide/OLED_solder.jpg)
+
+
+Now use flush cutters to trim the top and bottom pins. Especially the top pins should be as short as possible to avoid interference with the switch plate.
+
+![OLED flush cutter](/docs/images/builguide/OLED_cutoff.jpg)
+
+
+If you use a metal switch plate consider to cover them with electrical tape to prevent shorts.
+
+![OLED tape on top](/docs/images/buildguide/OLED_tape_top.jpg)
+
 
 > **Note**
 > If you need to desolder the OLED or fix it's placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
 
-**IMAGE**
+![OLED desolder](/docs/images/buildguide/OLED_fix.jpg)
+
 
 ***
 
 ## ENCODERS
 
-Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.\
-**IMAGE**
+Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
+
+![encoder](/docs/images/buildguide/encoder.jpg)
+
 
 ***
 
@@ -272,6 +309,7 @@ Mount the rotary encoder on the top side of the PCB. It should click into place 
 This is how your finished PCB probably will look like.
 
 ![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
+
 
 ***
 
