@@ -100,6 +100,32 @@ You can use flush cutters to trim the header pins.
 
 ***
 
+## DIODES
+
+The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
+  <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
+</picture>
+</p>
+
+Apply a small amount of solder on one pad.
+
+![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
+
+
+Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
+
+![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
+
+
+Now you can solder the second pad.
+
+***
+
 ## LEDS (optional)
 
 LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and then insert the LED.
@@ -132,32 +158,6 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 > If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
 
 ![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
-
-***
-
-## DIODES
-
-The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
-  <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
-</picture>
-</p>
-
-Apply a small amount of solder on one pad.
-
-![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
-
-
-Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
-
-![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
-
-
-Now you can solder the second pad.
 
 ***
 
