@@ -136,18 +136,18 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
   <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
 </picture>
-
+</p>
 
 Apply a small amount of solder on one pad.\
 **IMAGE**
 
-![diode orientation](/docs/images/buildguide/diodes_dark.svg#center)
+![diode orientation](/docs/images/buildguide/diodes_dark.svg)
 
 
 Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.\
