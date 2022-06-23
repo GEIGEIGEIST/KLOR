@@ -102,18 +102,21 @@ You can use flush cutters to trim the header pins.
 
 ## LEDS (optional)
 
-LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and then insert the LED.\
-**IMAGE**
+LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and then insert the LED.
 
-While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.\
-**IMAGE**
+![LED solder pads](/docs/images/buildguide/LED_solder_pads.jpg)
+
+
+While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.
+
+![LED in place](/docs/images/buildguide/LED_in_place.jpg)
+
 
 Here you can see an image of the correct orientation.
 
 ![LED orientation1](/docs/images/buildguide/LEDorientation.svg)
 
 The L shaped pad on the LED needs to be connected to the square marked pad. \
-**IMAGE**
 
 > **Note**
 > While the orientation is the same on every half, it's different between both halves.
@@ -146,12 +149,12 @@ The diodes needs to be soldered on the bottomm of the PCB. Their orientation mat
 
 Apply a small amount of solder on one pad.
 
-![Solder on one pad](/docs/images/buildguide/diode01.jpg)
+![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
 
 
 Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
 
-![Solder diode](/docs/images/buildguide/diode02.jpg)
+![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
 
 
 Now you can solder the second pad.
