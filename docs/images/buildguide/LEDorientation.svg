@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="902.11" height="413.2" viewBox="0 0 902.11 413.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #343434;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #d8d8d8;
+      }
+
+      .cls-4 {
+        fill: #919191;
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #b2b2b2;
+      }
+
+      .cls-6 {
+        fill: rgba(255, 255, 255, 0);
+        stroke: #fff;
+        stroke-width: 10.08px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        fill: #ccc;
+        stroke: #ccc;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_5" data-name="Ebene 5">
+    <rect class="cls-1" width="902.11" height="413.2"/>
+    <path class="cls-6" d="M617.84,131.55v67.58"/>
+    <path class="cls-6" d="M617.84,199.13h-95.55"/>
+    <path class="cls-6" d="M522.29,199.13v-67.58"/>
+    <path class="cls-6" d="M522.29,131.55h95.55"/>
+    <path class="cls-4" d="M602.18,145.79v39.98h-58.44v-39.98h58.44Z"/>
+    <polygon class="cls-7" points="530.27 185.78 530.27 130.99 617.9 130.99 530.27 130.99 530.27 185.78"/>
+    <path class="cls-4" d="M602.18,226.85v41.91h-58.44v-41.91h58.44Z"/>
+    <path class="cls-2" d="M346.34,329.55h197.4V83.07h-197.4v246.49Z"/>
+    <path class="cls-4" d="M346.34,226.85v41.91h-58.44v-41.91h58.44Z"/>
+    <path class="cls-4" d="M346.34,143.86v41.91h-58.44v-41.91h58.44Z"/>
+  </g>
+  <g id="Ebene_5_Kopie" data-name="Ebene 5 Kopie">
+    <g>
+      <rect class="cls-3" x="346.95" y="108.07" width="196.48" height="196.48"/>
+      <g>
+        <path class="cls-5" d="M364.17,263.82c6.08-.34,9.12,4.73,9.12,4.73h26.67v-44.56h-33.76v4.73h-19.24v39.84h7.43s3.71-4.39,9.79-4.73Z"/>
+        <path class="cls-5" d="M346.95,185.83h19.92v18.23h86.09v-58.07h-81.02s-5.06,5.4-9.79,4.39c-4.73-1.01-6.41-4.39-6.41-4.39h-8.78v39.84Z"/>
+        <path class="cls-5" d="M539.72,146c-6.75,.68-8.78,4.73-13.5,5.06s-7.76-5.06-7.76-5.06h-42.87v60.73l6.08,6.46h41.19v-27.35h20.59v-40.08c-1.23,.05-2.48,.12-3.71,.25Z"/>
+        <path class="cls-5" d="M543.43,228.03h-8.44v6.08h-56.38l-10.47-10.13h-43.21v44.56h92.5s2.7-5.4,9.79-5.06c7.09,.34,9.45,5.06,9.45,5.06h6.75v-40.51Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
