@@ -89,13 +89,16 @@ Flip it again and insert the pins in the sockets.
 **IMAGE**
 
 Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
+You can use flush cutters to trim the header pins.
 **IMAGE**
 
+> **Warning**
+> When trimming flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around.
 
 
 ## LEDS (optional)
 
-LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and than insert the LED.
+LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and than insert the LED.\
 **IMAGE**
 
 While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.\
@@ -126,7 +129,12 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 ## DIODES
 
-The orientation of the diodes matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+The diodes needs to be soldered on the bottomm of the PCB. The orientation of the diodes matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to. 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
+  <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
+</picture>
 
 
 ## SWITCH SOCKETS
