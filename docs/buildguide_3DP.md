@@ -112,11 +112,11 @@ While the bottom of the PCB is facing you, insert the LEDs in the holes. The len
 ![LED in place](/docs/images/buildguide/LED_in_place.jpg)
 
 
-Here you can see an image of the correct orientation.
+Here you can see an image of the correct orientation.\
+The L shaped pad on the LED needs to be connected to the square marked pad.
 
 ![LED orientation1](/docs/images/buildguide/LEDorientation.svg)
 
-The L shaped pad on the LED needs to be connected to the square marked pad. \
 
 > **Note**
 > While the orientation is the same on every half, it's different between both halves.
