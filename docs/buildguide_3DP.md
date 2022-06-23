@@ -104,7 +104,7 @@ LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB 
 While the bottom of the PCB is facing you, insert the LEDs in the holes. The lens should face the table.\
 **IMAGE**
 
-Here you can see an image of the correct orientation.\
+Here you can see an image of the correct orientation.
 
 ![LED orientation1](/docs/images/buildguide/LEDorientation.svg)
 
