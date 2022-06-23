@@ -66,6 +66,7 @@ If you decided on [another layout](/README.md#layouts) than the Polydactyl you s
 
 **IMAGE**
 
+***
 
 ## MICROCONTROLLER
 
@@ -95,6 +96,7 @@ You can use flush cutters to trim the header pins.
 > **Warning**
 > When trimming flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around.
 
+***
 
 ## LEDS (optional)
 
@@ -117,10 +119,6 @@ The L shaped pad on the LED needs to be connected to the square marked pad. \
 > **Warning**
 > It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
-
-
-
-
 The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. This graphic shows in which order the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
@@ -130,6 +128,7 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 
 ![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
+***
 
 ## DIODES
 
@@ -151,7 +150,7 @@ Then use tweezers to place the diode on the pads and reheat the solder to secure
 
 Now you can solder the second pad.
 
-
+***
 
 ## SWITCH SOCKETS
 
@@ -162,14 +161,14 @@ Than place the switch socket in the silk screen markings and reheat the solder. 
 Now solder the second pad of the socket.\
 **IMAGE**
 
-
+***
 
 ## RESET SWITCHES
 
 You soldered everything which goes on the bottom of the PCB. 
 The reset switches are kinda fiddly to solder. 
 
-
+***
 
 ## TRRS JACKS
 
@@ -177,7 +176,7 @@ Install the TRRS jack on the top side of the PCB. The place where you should ins
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.\
 **IMAGE**
 
-
+***
 
 ## HAPTIC FEEDBACK (optional)
 
@@ -194,7 +193,7 @@ Now you can solder the pins and use a flush cutter to snap of the excess. Again 
 You can also use a screw and a nut to stabilize the module further. But this step isn't necessary.\
 **IMAGE**
 
-
+***
 
 ## SPEAKER (optional)
 
@@ -204,6 +203,7 @@ You can also use a screw and a nut to stabilize the module further. But this ste
 Soldering the speaker is pretty straight forwarded. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. Than apply solder to the other pad.\
 **image**
 
+***
 
 ## TRACKBALL (optional)
 > **Note**
@@ -211,6 +211,7 @@ Soldering the speaker is pretty straight forwarded. Apply a tiny bit solder on o
 
 TBA
 
+***
 
 ## OLEDs
 
@@ -248,14 +249,14 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 **IMAGE**
 
-
+***
 
 ## ENCODERS
 
 Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
 **IMAGE**
 
-
+***
 
 ## OVERVIEW
 
@@ -263,22 +264,16 @@ This is how your finished PCB probably will look like.
 
 ![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
 
-
+***
 
 ## 3DP CASE
 
+***
+
 ## ACRYLIC PARTS
+
+***
 
 ## FIRMWARE
 
-
-
-
-
-
-
-> **Note**
-> This is a note
-
-> **Warning**
-> This is a warning
+***
