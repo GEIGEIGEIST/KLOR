@@ -288,7 +288,7 @@ Solder the OLED into place.
 
 Now use flush cutters to trim the top and bottom pins. Especially the top pins should be as short as possible to avoid interference with the switch plate.
 
-![OLED flush cutter](/docs/images/builguide/OLED_cutoff.jpg)
+![OLED flush cutter](/docs/images/buildguide/OLED_cutoff.jpg)
 
 
 If you use a metal switch plate consider to cover them with electrical tape to prevent shorts.
