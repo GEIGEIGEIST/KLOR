@@ -165,7 +165,12 @@ The L shaped pad on the LED needs to be connected to the square marked pad.
 Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB.\
 **IMAGE**
 
-The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. This graphic shows in which order the LEDs are chained together.
+The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. 
+
+![KLOR LEDs working](/docs/images/LED_closeup.jpg)
+
+
+This graphic shows in which order the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
@@ -185,8 +190,9 @@ Here you can use the same technique than the one used for the diodes: Apply some
 
 
 Than place the switch socket in the silk screen markings and reheat the solder. Make sure you apply some pressure with tweezers, so make sure the socket is fully seated.\
-Now solder the second pad of the socket.\
-**IMAGE**
+Now solder the second pad of the socket.
+
+![switch socket soldered](/docs/images/buildguide/switchsocket.jpg)
 
 
 ***
@@ -204,7 +210,9 @@ The reset switches are kinda fiddly to solder.
 Install the TRRS jack on the top side of the PCB. The place where you should insert it is marked with a white line.
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
 
-![TRRS taped](/docs/images/buildguide/TRRS_tape.jpg)
+![TRRS jack taped](/docs/images/buildguide/TRRS_tape.jpg)
+
+![TRRS jack soldered](/docs/images/buildguide/TRRS.jpg)
 
 
 ***
@@ -324,7 +332,19 @@ This is how your finished PCB probably will look like. You can use an old toothb
 
 ***
 
+## FIRMWARE
+
+***
+
 ## 3DP CASE
+
+Here you can find the STL files for the case. I got them printed in PA12-HP Nylon (Multi Jet Fusion printing) by [JLCPCB](https://jlcpcb.com/3d-printing), which seemed pretty reasonably priced, for the level of detail.
+
+![3DP case](/docs/images/buildguide/3DPcase.jpg)
+
+
+Insert the PCB first.
+
 
 ***
 
@@ -334,8 +354,8 @@ This is how your finished PCB probably will look like. You can use an old toothb
 
 ## KNOBS
 
-***
+The design works best with 23mm (0.9") diameter encoder knobs. My recomendation would be a knob from kilo internationl which number starts with 90 (which means a 0.9" diameter) like the OEDNI-90-4-7 shown here.
 
-## FIRMWARE
+![OEDNI-90-4-7](/docs/images/buildguide/knob.jpg)
 
 ***
