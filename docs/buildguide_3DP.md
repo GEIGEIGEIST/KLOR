@@ -325,7 +325,7 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 
 > **Note**
-> If you need to desolder the OLED or fix its placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
+> If you need to desolder the OLED or fix its placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to use too much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
 
 ![OLED desolder](/docs/images/buildguide/OLED_fix.jpg)
 
