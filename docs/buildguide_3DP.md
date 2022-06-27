@@ -263,7 +263,7 @@ Soldering the speaker is pretty simple. Apply a tiny bit solder on one of the pa
 
 ## TRACKBALL (optional)
 > **Note**
-> While the hardware side should work fine, I still need to add the code for the trackball.
+> While the hardware side should already work fine, I still need to add the code for the trackball.
 
 TBA
 
