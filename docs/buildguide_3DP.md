@@ -345,17 +345,17 @@ Here you can find the STL files for the case. I got them printed in PA12-HP Nylo
 
 Insert the PCB first. Starting with the inserting the microcontroller in the cutout at the top.
 
-![3DP case insert MCU](/docs/images/3DPcase_MCU.jpg)
+![3DP case insert MCU](/docs/images/buildguide/3DPcase_MCU.jpg)
 
 
 Then lower it into the case. You probably need to bend the part of the case containing the holes for reset switch and TRRS jack a bit, to make it fit.
 
-![3DP case bend](/docs/images/3DPcase_finger.jpg)
+![3DP case bend](/docs/images/buildguide/3DPcase_finger.jpg)
 
 
 The TRRS jack should snap in the provided hole.
 
-![3DP case trrs](/docs/images/3DPcase_trrs.jpg)
+![3DP case trrs](/docs/images/buildguide/3DPcase_trrs.jpg)
 
 
 ***
