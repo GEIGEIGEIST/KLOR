@@ -281,10 +281,10 @@ Mount the rotary encoder on the top side of the PCB. It should click into place 
 ## OLEDs
 
 > **Warning**
-> Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which covers pins, you can't access after the OLEDs are in place.
+> Make sure the keyboard is fully functional before soldering the OLEDs, since they're the only components which cover pins, you won't be able to access once they are in place.
 
 
-First step should be to bridge the jumpers on the top of the PCB, next to the OLED.
+First step should be to bridge the jumpers on the top of the PCB next to the OLED.
 
 ![OLED bridge jumpers](/docs/images/buildguide/OLED_bridge.jpg)
 
