@@ -271,7 +271,7 @@ TBA
 
 ## ENCODERS
 
-Mount the rotary encoder on the top side of the PCB. It should click into place and might require a firm press. If it's seated corretly solder the pins on the bottom.
+Mount the rotary encoder on the top side of the PCB. It should click into place maybe requiring a firm press. If it's seated correctly solder the pins on the bottom.
 
 ![encoder](/docs/images/buildguide/encoder.jpg)
 
