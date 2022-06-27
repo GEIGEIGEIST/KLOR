@@ -4,7 +4,7 @@
 
 ### REQUIRED PARTS
 
-| Part name     | Quantity | Remarks | 
+| Part name     | Count | Remarks | 
 | ---           | ---      | ---     |
 | KLOR PCB      | 02 |         |
 | ProMicro      | 02 | Alternatively you can use another controller, with a similar pinout like the Elite-C, Puchi-C, KB2040 dda. |
@@ -23,7 +23,7 @@
 
 ### OPTIONAL PARTS
 
-| Part name              | Quantity | Remarks | 
+| Part name              | Count | Remarks | 
 | ---                    | ---      | ---     |
 | MCU sockets            | 04 | For socketing your MCU. Highly recommended |
 | MCU pins               | 48 | In combinatin with the MCU sockets |
@@ -37,7 +37,7 @@
 
 ### 3DP CASE PARTS
 
-| Part name              | Quantity | Remarks | 
+| Part name              | Count | Remarks | 
 | ---                    | ---      | ---     |
 | 3D printed case        | 02 | |
 | acrylic parts          | 02 | Three parts and one ring per side |
@@ -324,7 +324,7 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 ***
 
-## OVERVIEW
+## CLEANING
 
 This is how your finished PCB probably will look like. You can use an old toothbrush and some isopropanol to clean it from residues. 
 
@@ -336,11 +336,11 @@ This is how your finished PCB probably will look like. You can use an old toothb
 ## FIRMWARE
 
 ### AVR based ProMicro 
-*Pro Micro / Elite-C / Puchi-C*
+**Pro Micro / Elite-C / Puchi-C**
 
 If you not already flashed the firmware to the microcontroller you should do it know, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
-Copy the `klor` folder into the `keyboards` directory of your qmk installation.\
+Copy the **klor** folder into the keyboards* directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
 
 ``qmk compile -kb klor -km default`` 
@@ -355,7 +355,7 @@ Press `flash` in QMK toolbox to flash the firmware on your microcontroller.
 
 
 ### RP2040 ProMicro 
-*Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro*
+**Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
 
 For now you can't use the official QMK version with the RP2040. Instead you should use [this PR](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).\
 Copy the `klor` folder into the `keyboards` directory of your qmk installation.\
@@ -369,6 +369,7 @@ Copy the `klor_2040_default.uf2` there to flash it.
 
 > **Note**
 > After flashing the firmware the first time you can access the flash memory by double pressing the reset button on your keyboard or define a software reset key by using `QK_boot` as keycode.
+
 
 ***
 
