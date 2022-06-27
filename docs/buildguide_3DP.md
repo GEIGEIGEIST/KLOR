@@ -409,6 +409,10 @@ Now you can insert the plate and screw it to the case using the center standoff.
 
 ## ACRYLIC PARTS
 
+Screw the acrylic parts on top of the plate.
+
+ ![acrylic parts on top of plate](/docs/images/buildguide/3DPcase_acrylic.jpg)
+
 ***
 
 ## KNOBS
