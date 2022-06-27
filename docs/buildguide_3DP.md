@@ -64,7 +64,7 @@ Beginn with the flat components and progress to the higher ones, ending with the
 If you choose a layout [other than](/README.md#layouts) Polydactyl you should remove the unnecessary parts. Use a flush cutter to snip through the support sections. You can also use a boxcutter to carve in grooves, which makes it easier to break on the right spot. 
 
 > **Warning**
-> Be very careful with this step, since there is a risk to break your PCB. Probably start with this step, since you won't loose all soldered parts if you really break the PCB.
+> Be very careful with this step, since there is a risk to break the PCB. Probably it would be best to beginn with this step, to avoid loosing already soldered parts.
 
 ![break off parts](/docs/images/buildguide/breakoff.jpg)
 
