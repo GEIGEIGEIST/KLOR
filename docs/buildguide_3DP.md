@@ -346,10 +346,10 @@ This is how your finished PCB probably will look like. You can use an old toothb
 ### AVR based ProMicro 
 **e.g. Pro Micro / Elite-C / Puchi-C**
 
-If you not already flashed the firmware to the microcontroller you should do it know, to make sure everything works, before inserting it into the case.\
+If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
-Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
+Then use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
 
 ``qmk compile -kb klor -km default`` 
 
@@ -372,7 +372,7 @@ Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choi
 ``qmk compile -kb klor/2040 -km default``
 
 This will create a file called **klor_2040_default.uf2** in your **qmk_firmware** folder.\
-The first time you need to keep boot pressed, than press reset and release boot. It will open the flash memory of your MicroController as device in your OS.\
+The first time you need to keep boot pressed, then press reset and release boot. This will open the flash memory of your MicroController as device in your OS.\
 Copy the **klor_2040_default.uf2** there to flash it. 
 
 > **Note**
@@ -388,12 +388,12 @@ Here you can find the STL files for the case. I got them printed in PA12-HP Nylo
 ![3DP case](/docs/images/buildguide/3DPcase.jpg)
 
 
-Insert the PCB first. Starting with the inserting the microcontroller in the cutout at the top.
+Insert the PCB first. Starting with inserting the microcontroller in the cutout at the top.
 
 ![3DP case insert MCU](/docs/images/buildguide/3DPcase_MCU.jpg)
 
 
-Then lower it into the case. You probably need to bend the part of the case containing the holes for reset switch and TRRS jack a bit, to make it fit.
+Then lower it into the case. To make it fit, you probably need to bend a bit the part of the case containing the holes for reset switch and TRRS jack.
 
 ![3DP case bend](/docs/images/buildguide/3DPcase_finger.jpg)
 
