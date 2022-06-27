@@ -187,13 +187,13 @@ This graphic shows the order in which the LEDs are chained together.
 
 ## SWITCH SOCKETS
 
-Here you can use the same technique than the one used for the diodes: Apply some solder on one of the pads first.
+Here you can apply the same technique as used for the diodes: Apply some solder on one of the pads first.
 
 ![switch sockets pad](/docs/images/buildguide/switch_pad.jpg)
 
 
-Than place the switch socket in the silk screen markings and reheat the solder. Make sure you apply some pressure with tweezers, so make sure the socket is fully seated.\
-Now solder the second pad of the socket.
+Then place the switch socket in the silk screen markings and reheat the solder. Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
+Now solder the second pad.
 
 ![switch socket soldered](/docs/images/buildguide/switchsocket.jpg)
 
