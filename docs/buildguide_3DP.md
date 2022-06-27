@@ -368,7 +368,7 @@ The first time you need to keep boot pressed, than press reset and release boot.
 Copy the **klor_2040_default.uf2** there to flash it. 
 
 > **Note**
-> After flashing the firmware the first time you can access the flash memory by double pressing the reset button on your keyboard or define a software reset key by using `QK_boot` as keycode.
+> After flashing the firmware the first time you can access the flash memory by double pressing the reset button on your keyboard or define a software reset key by using **QK_boot** as keycode.
 
 
 ***
