@@ -168,8 +168,10 @@ The L shaped pad on the LED needs to be connected to the square marked pad.
 > **Warning**
 > It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
-Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB.\
-**IMAGE**
+Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB. 
+
+![LED connection](/docs/images/buildguide/LED_soldered.jpg)
+
 
 The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. 
 
@@ -200,8 +202,9 @@ Now solder the second pad of the socket.
 
 ## RESET SWITCHES
 
-You soldered everything which goes on the bottom of the PCB. 
-The reset switches are kinda fiddly to solder. 
+The reset switches are kinda fiddly to solder. It helps to apply a really thin film of solder to the pads first. Than hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they have no electrical purpose and are only used to hold the switch into place.) If the switch is seated corretly reheat the solder pads under the switch to connect it. 
+
+![reset switch](/docs/images/buildguide/reset_switch.jpg)
 
 
 ***
@@ -230,10 +233,15 @@ Apply some solder to the jumpers on the top to bridge them.
 
 
 Insert the module from below, with the motor facing upwards. Than insert the pin headers from below.\
-**IMAGE**
+
+![haptic feedback pins](/docs/images/buildguide/haptic_pins.jpg)
 
 
 Now you can solder the pins and use a flush cutter to snap of the excess. Again please hold your hand above them or wear eye protection while doing this.
+
+![haptic feedback snap of pins](/docs/images/buildguide/haptic_snap.jpg)
+
+
 You can also use a screw and a nut to stabilize the module further. But this step isn't necessary.
 
 ![haptic feedback solder](/docs/images/buildguide/haptic_solder.jpg)
