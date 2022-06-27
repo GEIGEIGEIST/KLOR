@@ -178,7 +178,7 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 ![KLOR LED working](/docs/images/buildguide/LED_closeup.jpg)
 
 
-This graphic shows in which order the LEDs are chained together.
+This graphic shows the order in which the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
