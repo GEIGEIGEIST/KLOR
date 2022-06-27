@@ -140,6 +140,12 @@ Now you can solder the second pad.
 
 ## LEDS (optional)
 
+> **Note**
+> If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
+
+![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
+
+
 LEDs are very heat sensitive. So it's a good idea to solder the pads on the PCB bottom first and then insert the LED.
 
 ![LED solder pads](/docs/images/buildguide/LED_solder_pads.jpg)
@@ -173,11 +179,6 @@ The advantage of soldering in the Microcontroller first is that you can occasion
 This graphic shows in which order the LEDs are chained together.
 
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
-
-> **Note**
-> If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
-
-![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
 
 ***
