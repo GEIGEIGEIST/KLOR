@@ -340,7 +340,7 @@ This is how your finished PCB probably will look like. You can use an old toothb
 
 If you not already flashed the firmware to the microcontroller you should do it know, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
-Copy the **klor** folder into the keyboards* directory of your qmk installation.\
+Copy the **klor** folder into the *keyboards* directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
 
 ``qmk compile -kb klor -km default`` 
