@@ -237,7 +237,7 @@ Insert the module from below with the motor facing upwards. Then insert the pin 
 ![haptic feedback pins](/docs/images/buildguide/haptic_pins.jpg)
 
 
-Now you can solder the pins and use a flush cutter to snap of the excess. Again please hold your hand above them or wear eye protection while doing this.
+Now you can solder the pins and use a flush cutter to snap of the excess. Remember to hold your hand above them or wear eye protection while doing so.
 
 ![haptic feedback snap of pins](/docs/images/buildguide/haptic_snap.jpg)
 
