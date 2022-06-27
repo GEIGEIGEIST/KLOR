@@ -95,7 +95,7 @@ Then you can flip the board to solder in the sockets from the top.
 Flip it again and insert the pins into the sockets.
 
 > **Note**
-> Use tweezers to insert them. Don't apply too much force, you will feel them snap in. After that you can carefully apply some pressure, using a flat object, to make sure they're fully seated. 
+> Use tweezers to insert them. Don't apply too much force, you will feel them snap in. After that, you can carefully apply some pressure, using a flat object to make sure they're fully seated. 
 
 ![MCU pins](/docs/images/buildguide/MCU_pins.jpg)
 
