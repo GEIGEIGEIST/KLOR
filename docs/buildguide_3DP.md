@@ -342,7 +342,9 @@ If you not already flashed the firmware to the microcontroller you should do it 
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
 Copy the `klor` folder into the `keyboards` directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
+
 ``qmk compile -kb klor -km default`` 
+
 This will create a file called `klor_default.hex` in your `qmk_firmware` folder.\
 Open [QMK Toolbox](https://github.com/qmk/qmk_toolbox) and locate the `klor_default.hex` file.\
 Connect the ProMicro/keyboard and press the reset button (or connect the RST and GND pins on the ProMicro). QMK toolbox should show a connected device.\
@@ -352,13 +354,15 @@ Press `flash` in QMK toolbox to flash the firmware on your microcontroller.
 
 
 
-### RP2040 ProMicro
+### RP2040 ProMicro 
 *Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro*
 
 For now you can't use the official QMK version with the RP2040. Instead you should use [this PR](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).\
 Copy the `klor` folder into the `keyboards` directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
+
 ``qmk compile -kb klor/2040 -km default``
+
 This will create a file called `klor_2040_default.uf2` in your `qmk_firmware` folder.\
 The first time you need to keep boot pressed, than press reset and release boot. It will open the flash memory of your MicroController as device in your OS.\
 Copy the `klor_2040_default.uf2` there to flash it. 
