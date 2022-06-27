@@ -206,7 +206,7 @@ The reset switches are a bit fiddly to solder. It helps to apply a really thin f
 
 ## TRRS JACKS
 
-Install the TRRS jack on the top side of the PCB. The place where you should insert it is marked with a white line.
+Install the TRRS jack on the bottom side of the PCB. The place where you should insert it is marked with a white line.
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
 
 ![TRRS jack taped](/docs/images/buildguide/TRRS_tape.jpg)
