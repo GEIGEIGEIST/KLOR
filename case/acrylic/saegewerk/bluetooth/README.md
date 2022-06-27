@@ -1,6 +1,7 @@
 # KLOR SAEGEWERK BLE STACKED ACRYLIC CASE
 
-You can choose a bottom which supports the SplitKB tenting puck or a top which features the KLOR logotype. The rest of the layers are identical.
+You can choose a bottom which supports the SplitKB tenting puck or a top which features the KLOR logotype. The rest of the layers are identical.\
+The middle layers got two cuts, which should make it possible to use less acrylic and make it a lot cheaper to cut.
 
 Here you can see a guide, which should help you putting the different pieces together.
 
