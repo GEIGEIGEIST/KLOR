@@ -412,7 +412,7 @@ Now you can insert the plate and screw it to the case using the center standoff.
 Here you can find the files for the acrylic parts. You should get them made in smokey acrylic by a lasercutting service, to hide the OLED, but make it shine trough the top layer. It will look best if you can get a pretty dark type, like 7C83 by PlexiGlas (used by formulor.de for example).\
 If you want to get rid of the shine you can carefully sand the parts with some really fine sanding paper (I used a 2000 sanding pad).\
 You need to glue the ring to the top right part using acrylic glue (Acrifix for example). Be careful to apply only a really thin layer using a toothpick.\
-If you choose a case with the KLOR logotype you can retrace it with some white paint marker to emphasize it. Use turpentine or something similar to get rid of the excess paint.\
+If you choose a case with the KLOR logotype you can retrace it with some white paint marker to emphasize it. Use turpentine or something similar to get rid of the excess paint.
 
 Screw the acrylic parts on top of the plate.
 
