@@ -56,4 +56,5 @@ People which helped me creating this board and fixing stuff
 - [KarlK90](https://github.com/KarlK90)
 - [MangoIV](https://github.com/MangoIV)
 - [OxCB](https://github.com/0xCB-dev)
-- [MicroFortnight](microfortnight)
+- [MicroFortnight](https://github.com/microfortnight)
+- [dreipunkteinsvier](https://github.com/dreipunkteinsvier)
