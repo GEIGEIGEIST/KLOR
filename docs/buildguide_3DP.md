@@ -254,7 +254,7 @@ You can also use a screw and a nut to stabilize the module further. But this ste
 > **Note**
 > Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK. Unfortunately, the audio feature of QMK doesn't work yet with the RP2040.
 
-Soldering the speaker is pretty simple. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. Then apply solder to the other pad.
+Soldering the speaker is pretty simple. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. After that apply solder to the other pad.
 
 ![speaker](/docs/images/buildguide/speaker.jpg)
 
