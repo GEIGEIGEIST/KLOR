@@ -81,7 +81,7 @@ You can use a file to smooth out the edges, but you should wear a mask while doi
 
 Unlike most other boards here the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
 Feel free to use the included header pins, but it's highly recommended to use MillMax low profile sockets.\
-Place the sockets in the marked spots  on the bottom side of the PCB.
+Place the sockets in the marked spots on the bottom side of the PCB.
 
 ![MCU sockets](/docs/images/buildguide/MCU_sockets.jpg)
 
@@ -92,10 +92,10 @@ You can keep them in place by using masking tape.
 
 
 Then you can flip the board to solder in the sockets from the top.
-Flip it again and insert the pins in the sockets.
+Flip it again and insert the pins into the sockets.
 
 > **Note**
-> Use a plier to insert them. Don't use too much force, you will feel them snap in. After that you can carefully apply some pressure , using a flat object, to make sure they're fully seated. 
+> Use tweezers to insert them. Don't use too much force, you will feel them snap in. After that you can carefully apply some pressure, using a flat object, to make sure they're fully seated. 
 
 ![MCU pins](/docs/images/buildguide/MCU_pins.jpg)
 
