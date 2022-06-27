@@ -5,8 +5,8 @@
 ### REQUIRED PARTS
 
 | Part name     | Count | Remarks | 
-| ---           | ---      | ---     |
-| KLOR PCB      | 02 |         |
+| :------------ | :---: | :------ |
+| KLOR PCB      | 02 | [Here](/PCB/readme.md) you can find the files for it |
 | ProMicro      | 02 | Alternatively you can use another controller, with a similar pinout like the Elite-C, Puchi-C, KB2040 dda. |
 | MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk |
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
@@ -24,7 +24,7 @@
 ### OPTIONAL PARTS
 
 | Part name              | Count | Remarks | 
-| ---                    | ---      | ---     |
+| :--------------------- | :---: | :------ |
 | MCU sockets            | 04 | For socketing your MCU. Highly recommended |
 | MCU pins               | 48 | In combinatin with the MCU sockets |
 | SK6812 Mini LED        | 42 | 40 LEDs for Konrad / 38 LEDs for Yubitsume / 36 LEDs for Saegewerk |
@@ -38,7 +38,7 @@
 ### 3DP CASE PARTS
 
 | Part name              | Count | Remarks | 
-| ---                    | ---      | ---     |
+| :--------------------- | :---: | :------ |
 | 3D printed case        | 02 | |
 | acrylic parts          | 02 | Three parts and one ring per side |
 | switch plate           | 02 | 1.5mm switch plate |
