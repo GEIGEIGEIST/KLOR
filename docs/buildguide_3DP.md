@@ -156,17 +156,17 @@ While the bottom of the PCB is facing you, insert the LEDs in the holes. The len
 ![LED in place](/docs/images/buildguide/LED_in_place.jpg)
 
 
-Here you can see an image of the correct orientation.\
+This image depicts the correct orientation.\
 The L shaped pad on the LED need to be connected to the square marked pad.
 
 ![LED orientation1](/docs/images/buildguide/LEDorientation.svg)
 
 
 > **Note**
-> While the orientation is the same on every half, it's different between the halves.
+> While the orientation is uniform within a half, it differs between left and right.
 
 > **Warning**
-> It's recommended to solder the LEDs in at 220º, since they're pretty heat sensitive. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
+> It's recommended to solder the LEDs in at 220º, since they're pretty heat sensitive. Personally, I had a hard time keeping it below 270º. So my advice would be while soldering the first pad on every LED, try to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
 Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB. 
 
