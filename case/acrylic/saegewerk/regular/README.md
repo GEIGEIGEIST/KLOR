@@ -1,1 +1,1 @@
-![](/case/acrylic/saegewerk/regular/KLOR_saegewerk_puzzleguide.svg)
+![Saegewerk Puzzleguide](docs/KLOR_saegewerk_puzzleguide.svg)
