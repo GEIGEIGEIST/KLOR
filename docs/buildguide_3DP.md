@@ -336,7 +336,7 @@ This is how your finished PCB probably will look like. You can use an old toothb
 ## FIRMWARE
 
 ### AVR based ProMicro 
-**Pro Micro / Elite-C / Puchi-C**
+**e.g. Pro Micro / Elite-C / Puchi-C**
 
 If you not already flashed the firmware to the microcontroller you should do it know, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
@@ -355,7 +355,7 @@ Press **flash** in QMK toolbox to flash the firmware on your microcontroller.
 
 
 ### RP2040 ProMicro 
-**Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
+**e.g. Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
 
 For now you can't use the official QMK version with the RP2040. Instead you should use [this PR](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).\
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
