@@ -293,7 +293,7 @@ First step should be to bridge the jumpers on the top of the PCB next to the OLE
 > The OLED needs to be as flush to the PCB as possible to fit under the switchplate.
 
 
-You need to remove the plastic part from the headers, which is usually attached to the OLED, while keeping the pins. For me the easiest way is to use flush cutters to snap the plastic in half, which lets you remove the parts easily. You probably need to bend the pins back in place after doing this.
+You need to remove the plastic part, which is usually attached to the OLED, from the headers, while keeping the pins. For me the easiest way is to use flush cutters to snap the plastic in half, which allows you to remove the parts easily. You probably need to bend the pins back in place after doing this.
 
 ![OLED pin split](/docs/images/buildguide/OLED_split.jpg)
 
@@ -325,7 +325,7 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 
 > **Note**
-> If you need to desolder the OLED or fix it's placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
+> If you need to desolder the OLED or fix its placement just apply a lot of solder to the four pins to connect them. This way you can heat all four pins at once and remove it by gently applying force to the bottom edge of the OLED module. Be really carefull not to apply to much pressure, since you could rip off a pad or destroy the OLED (which happens pretty fast).
 
 ![OLED desolder](/docs/images/buildguide/OLED_fix.jpg)
 
