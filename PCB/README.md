@@ -10,11 +10,13 @@ If you want to get the PCB made you need to add the files in the [gerbers folder
 - 2 layers
 - PCB Qty as much as you like. But be aware, that you need 2 PCBs for one keyboard
 - PCB Color Black
-- No impedance control (Option only shown in the video)
+- No impedance control
 - Surface Finish HASL(with lead) if you want the easiest soldering experience or LeadFree HASL.
 - Remove Order Number Yes
 
 ![KLOR pcb](/docs/images/KLORpcb.png)
+
+
 
 ## CHECK TRACES OR PINOUT
 
@@ -24,6 +26,8 @@ If you only want to check the traces or see what is connected to which pin you c
 ![KLOR pinout](/docs/images/KLORpinout.png)
 ![KLOR traces](/docs/images/KLORtraces.png)
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
+
+
 
 
 ## TAKE A DEEPER LOOK OR MODIFY 
