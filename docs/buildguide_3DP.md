@@ -401,7 +401,7 @@ Insert the standoffs in the PCB and screw them into the bottom of the case using
 
 Now you can insert the plate and screw it to the case using the center standoff. 
 
-
+![3DP case plate](/docs/images/buildguide/3DPcase_plate.jpg)
 
 
 ***
