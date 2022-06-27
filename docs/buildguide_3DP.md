@@ -430,7 +430,7 @@ Screw the acrylic parts on top of the plate.
 
 ## KNOBS
 
-The design works best with 23mm (0.9") diameter encoder knobs. My recomendation would be a knob from kilo internationl which number starts with 90 (which means a 0.9" diameter) like the OEDNI-90-4-7 shown here.
+The design works best with 23mm (0.9") diameter encoder knobs. My recomendation would be a knob from kilo internationl with a number beginning with 90 (which means a 0.9" diameter) like the OEDNI-90-4-7 shown here.
 
 ![OEDNI-90-4-7](/docs/images/buildguide/knob.jpg)
 
