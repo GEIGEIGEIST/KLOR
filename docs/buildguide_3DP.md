@@ -114,7 +114,7 @@ You can use flush cutters to trim the header pins.
 
 ## DIODES
 
-The diodes needs to be soldered on the bottomm of the PCB. Their orientation matters. They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+The diodes needs to be soldered on the bottomm of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
 <p align="center">
 <picture>
