@@ -224,7 +224,7 @@ You may want to use some masking tape to hold it in place, since you need to sol
 ## HAPTIC FEEDBACK (optional)
 
 > **Note**
-> Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK.
+> Currently, haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK.
 
 
 Apply some solder to the jumpers on the top to bridge them.
@@ -232,7 +232,7 @@ Apply some solder to the jumpers on the top to bridge them.
 ![haptic feedback Jumper](/docs/images/buildguide/haptic_jumper.jpg)
 
 
-Insert the module from below, with the motor facing upwards. Than insert the pin headers from below.\
+Insert the module from below with the motor facing upwards. Then insert the pin headers from below.
 
 ![haptic feedback pins](/docs/images/buildguide/haptic_pins.jpg)
 
