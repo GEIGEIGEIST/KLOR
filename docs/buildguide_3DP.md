@@ -100,14 +100,14 @@ Flip it again and insert the pins into the sockets.
 ![MCU pins](/docs/images/buildguide/MCU_pins.jpg)
 
 
-Now place your microcontroller on the pins (components facing the PCB) and solder it to the pins.\
+Now place your microcontroller on the pins (components facing the PCB) and solder it to them.\
 You can use flush cutters to trim the header pins.
 
 ![MCU solder](/docs/images/buildguide/MCU_solder.jpg)
 
 
 > **Warning**
-> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will fly around and hurt you.
+> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will flying around might hurt you.
 
 
 ***
@@ -157,16 +157,16 @@ While the bottom of the PCB is facing you, insert the LEDs in the holes. The len
 
 
 Here you can see an image of the correct orientation.\
-The L shaped pad on the LED needs to be connected to the square marked pad.
+The L shaped pad on the LED need to be connected to the square marked pad.
 
 ![LED orientation1](/docs/images/buildguide/LEDorientation.svg)
 
 
 > **Note**
-> While the orientation is the same on every half, it's different between both halves.
+> While the orientation is the same on every half, it's different between the halves.
 
 > **Warning**
-> It's recommended to solder the LEDs in at 220º, since they're pretty sensitive to heat. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
+> It's recommended to solder the LEDs in at 220º, since they're pretty heat sensitive. Personally I had a hard time keeping it below 270º. So my advice would be to solder the first pad on every LED, while trying to be really quick. Then solder the second pad on every LED, starting with the first LED. This way they can cool down in the meantime.
 
 Make sure the solder always builds a strong connection between the pad on the LED and the pad on the PCB. 
 
