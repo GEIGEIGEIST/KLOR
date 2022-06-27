@@ -358,6 +358,16 @@ The TRRS jack should snap in the provided hole.
 ![3DP case trrs](/docs/images/buildguide/3DPcase_trrs.jpg)
 
 
+Insert the standoffs in the PCB and screw them into the bottom of the case using the countersunk screws.
+
+![3DP case standoffs](/docs/images/buildguide/3DPcase_standoffs.jpg)
+
+
+Now you can insert the plate and screw it to the case using the center standoff. 
+
+
+
+
 ***
 
 ## ACRYLIC PARTS
