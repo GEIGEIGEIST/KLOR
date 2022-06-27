@@ -53,9 +53,9 @@ Here is an overview of where and on which side each component needs to be solder
 
 ![KLOR solder guide](/docs/images/solderguide_3DP.png)
 
-Be aware that some components needs to be soldered on the opposite side for the stacked acrylic case.\
-Some people like to mark top and bottom with masking tape to keep track of the side, since the PCB is reversible.\
-You should start with the lowest components and work your way to the higher components, ending with the OLEDs and the encoders.
+Be aware that for the stacked acrylic case some components need to be soldered on the opposite side.\
+Some people mark the top and bottom with tape to keep track of which side is which, as the PCB is reversible.\
+Beginn with the flat components and progress to the higher ones, ending with the OLEDs and the encoders.
 
 ***
 
