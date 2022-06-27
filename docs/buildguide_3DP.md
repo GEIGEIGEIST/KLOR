@@ -77,7 +77,7 @@ You can use a file to smooth out the edges, but you should wear a mask while doi
 ## MICROCONTROLLER
 
 > **Warning**
-> First step should be to flash the microcontroller. This way you can make sure it works before soldering it in.
+> First flash the microcontroller to make sure it works, before soldering it in.
 
 Unlike most boards the microcontroller needs to be mounted on the bottom, with the components facing upwards (to the PCB).\
 You can choose the included header pins, but it's highly recommended to use MillMax low profile sockets.\
