@@ -107,7 +107,7 @@ You can use flush cutters to trim the header pins.
 
 
 > **Warning**
-> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise the sharp metal pins will flying around might hurt you.
+> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise sharp metal pins flying around might hurt you.
 
 
 ***
