@@ -141,7 +141,7 @@ Now you can solder the second pad.
 ## LEDS (optional)
 
 > **Note**
-> If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets, since the led chain lost its beginning. 
+> If you use a layout with three thumbs, instead of four, you need to bridge the 'lost thumb?' jumper below the TRRS sockets on the primary and secondary PCB, since the led chain lost its beginning. 
 
 ![Lost thumb jumper](/docs/images/buildguide/lostthumb.png)
 
