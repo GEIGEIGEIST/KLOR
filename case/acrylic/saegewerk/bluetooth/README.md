@@ -6,4 +6,4 @@ To get the best price you can either use a vector software like [Adobe Illustrat
 
 Here you can see a guide, which should help you putting the different pieces together.
 
-![Saegewerk BLE Puzzleguide](docs/KLOR_saegewerk_puzzleguide.svg)
+![Saegewerk BLE Puzzleguide](docs/KLOR_saegewerk_ble_puzzleguide.svg)
