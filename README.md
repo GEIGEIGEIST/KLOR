@@ -23,6 +23,12 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 [Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D printed case (which uses acrylic too) for every layout.
 
+
+## SWITCHPLATE
+
+In every case directory you'll find the matching switchplates as **.dxf**, **.svg** and **.zip** containing gerber files for a FR4 plate.
+
+
 ## BUILD GUIDE
 
 Here you can find the build guides for the KLOR.\
