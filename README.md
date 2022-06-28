@@ -27,9 +27,9 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 Here you can find the build guides for the KLOR.\
 [KLOR build guide 3DP case](/docs/buildguide_3DP.md) (QMK)\
-[KLOR build guide acrylic case](/docs/buildguide_acrylic.md) (QMK)\
+[KLOR build guide stacked acrylic case](/docs/buildguide_acrylic.md) (QMK)\
 [KLOR BLE build guide 3DP case](/docs/buildguide_3DP_ble.md) (ZMK)\
-[KLOR BLE build guide acrylic case](/docs/buildguide_acrylic_ble.md) (ZMK)
+[KLOR BLE build guide stacked acrylic case](/docs/buildguide_acrylic_ble.md) (ZMK)
 
 
 ## FIRMWARE
