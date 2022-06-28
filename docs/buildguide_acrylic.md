@@ -429,6 +429,6 @@ The design works best with 23mm (0.9") diameter encoder knobs. My recomendation 
 
 ## FINAL BUILD
 
-This is how the final keyboard will look like. In this picture I use RAMA Grid keycaps in NOCT.
+This is how the final keyboard will look like. In this picture you see the KLOR saegewerk, with RAMA Grid keycaps in NOCT.
 
 ![KLOR acrylic case](/docs/images/buildguide/acrylic_case.jpg)
