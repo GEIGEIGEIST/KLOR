@@ -53,7 +53,7 @@ Here is an overview of where and on which side each component needs to be solder
 
 ![KLOR solder guide](/docs/images/solderguide_acrylic.png)
 
-To see what component needs to sit where you can take a look at the [interactive HTML BOM](klor_rev1-3_ibom.html).
+To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/klor_rev1-3_ibom.html).
 
 > **Warning**
 > This interactive HTML BOM does show where each component is located, but please still refer to the solder guide above to see if a component needs to go on the front or back of the PCB.
