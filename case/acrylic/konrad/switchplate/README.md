@@ -1,7 +1,7 @@
 # KLOR KONRAD ACRYLIC CASE SWITCHPLATE
 
-You need a black 1.5mm switchplate. You can use the *.dxf* or *.svg* file to get a switchplate made of black POM or anodized aluminium.\
-Alternatively you can order a FR4 switchplate by uploading the *.zip* file, containing the gerbers, to a PCB manufacture like [JLCPCB](https://cart.jlcpcb.com/quote).
+You need a black 1.5mm switchplate. You can use the **.dxf** or **.svg** file to get a switchplate made of black POM or anodized aluminium.\
+Alternatively you can order a FR4 switchplate by uploading the **.zip** file, containing the gerbers, to a PCB manufacture like [JLCPCB](https://cart.jlcpcb.com/quote).
 You can keep the base settings, except of these:
 
 
