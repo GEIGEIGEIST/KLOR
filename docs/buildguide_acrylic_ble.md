@@ -51,7 +51,7 @@
 
 Here is an overview of where and on which side each component needs to be soldered (click on the image to see a larger version).
 
-![KLOR solder guide](/docs/images/solderguide_acrylic_ble.png)
+![KLOR solder guide](/docs/images/solderguide_acrylic_BLE.png)
 
 To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/klor_rev1-3_ibom.html).
 
