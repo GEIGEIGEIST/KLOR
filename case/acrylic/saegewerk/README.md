@@ -1,5 +1,12 @@
 # KLOR SAEGEWERK ACRYLIC CASE FILES 
 
-If you want to use the KLOR wireless (through ZMK) you need to choose the bluetooth case. If you plan on using it wired (through QMK) you should choose the regular case. The difference are a cutout for a JST connector in the bottom plate and another cutout for the ON/OFF switch in the side of the case. 
+You need a black 1.5mm switchplate. You can use the **.dxf** or **.svg** file to get a switchplate made of black POM or anodized aluminium.\
+Alternatively you can use the **.stl** to 3D print the switchplate.\
+Another option is to order a FR4 switchplate by uploading the **.zip** file, containing the gerbers, to a PCB manufacture like [JLCPCB](https://cart.jlcpcb.com/quote).
+You can keep the base settings, except of these:
 
-![optional cutouts](/docs/images/buildguide/cutouts.png)
+- PCB Thickness : 1.2 or 1.6 mm
+- PCB Color : Black
+- Remove Order Number : Yes
+
+![switchplate preview](KLOR_saegewerk_acrylic_case_switchplate.svg)
