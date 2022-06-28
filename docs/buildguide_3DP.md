@@ -375,11 +375,11 @@ For now you can't use the official QMK version with the RP2040. Instead you shou
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
 
-``qmk compile -kb klor/2040 -km default``
+``qmk compile -kb klor/rp2040 -km default``
 
-This will create a file called **klor_2040_default.uf2** in your **qmk_firmware** folder.\
+This will create a file called **klor_rp2040_default.uf2** in your **qmk_firmware** folder.\
 The first time you need to keep boot pressed, then press reset and release boot. This will open the flash memory of your MicroController as device in your OS.\
-Copy the **klor_2040_default.uf2** there to flash it. 
+Copy the **klor_rp2040_default.uf2** there to flash it. 
 
 > **Note**
 > After flashing the firmware the first time you can access the flash memory by double pressing the reset button on your keyboard or define a software reset key by using **QK_boot** as keycode.
