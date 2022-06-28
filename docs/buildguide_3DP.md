@@ -39,7 +39,7 @@
 
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
-| 3D printed case        | 02 | |
+| 3D printed case        | 02 | Find the case files [here](/case/3DP) |
 | acrylic parts          | 02 | Three parts and one ring per side |
 | switch plate           | 02 | 1.5mm switch plate |
 | 7mm M2 standoffs       | 16 | |
