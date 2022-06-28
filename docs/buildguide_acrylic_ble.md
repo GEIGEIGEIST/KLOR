@@ -1,4 +1,4 @@
-# KLOR BUILD GUIDE (3DP CASE) [WIP]
+# KLOR BUILD GUIDE (STACKED ACRYLIC CASE BLE) [WIP]
 
 ## PART LIST
 
@@ -7,15 +7,14 @@
 | Part name     | Count | Remarks | 
 | :------------ | :---: | :------ |
 | KLOR PCB      | 02 | You can find the files for it [here](/PCB/readme.md) |
-| ProMicro      | 02 | Alternatively, you can use another controller with a similar pinout like the Elite-C, Puchi-C, KB2040 dda. |
+| Nice!Nano     | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
 | MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk |
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
 | diodes 1N4148W| 44 | These are surface mount diodes in SOD123 package. 42 for Konrad / 40 for Yubitsume / 38 for Saegewerk |
 | 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
 | OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
 | reset button  | 02 | Alps SKRTLAE010 |
-| TRRS jack     | 02 | |
-| TRRS cable    | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex)|
+| power switch  | 02 | MSK12C02 |
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
 | encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. 
 | USB cable     | 01 | For connecting the keyboard with your PC |
@@ -27,39 +26,39 @@
 | :--------------------- | :---: | :------ |
 | MCU sockets            | 04 | For socketing your MCU. Highly recommended |
 | MCU pins               | 48 | In combinatin with the MCU sockets |
+| JST Jack               | 02 | JST PH |
 | SK6812 Mini LED        | 42 | 40 LEDs for Konrad / 38 LEDs for Yubitsume / 36 LEDs for Saegewerk |
-| [Haptic Feedback Module](https://shop.pimoroni.com/products/drv2605l-linear-actuator-haptic-breakout) | 01 | Pimoroni Haptic Buzz |
-| speaker                | 01 | Mallory AST1109MLTRQ or Keliking KLJ-1102 |
+| TRRS jack              | 02 | You can add TRRS jacks, so you can swap out the Microcontroller to make it a wired board |
+| TRRS cable             | 01 | See TRRS jack |
 | [trackball](https://bit-trade-one.co.jp/selfmadekb/adtb7m/) | 01 | Pixart PAW3204OA. Available at [Yushakobo](https://shop.yushakobo.jp/products/adtb7m) |
 | [level converter](https://github.com/sekigon-gonnoc/LevelConverterForTrackballModule) | 01 | Needed to use the trackball. You can get it from [Yushakobo](https://shop.yushakobo.jp/products/a0800tl-01-1/) |
 | [tenting puck](https://splitkb.com/products/tenting-puck)| 02 | SplitKB Tenting Puck |
 
 
-### 3DP CASE PARTS
+### ACRYLIC CASE PARTS
 
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
-| 3D printed case        | 02 | Find the case files [here](/case/3DP) |
-| acrylic parts          | 02 | Three parts and one ring per side |
+| acrylic parts          | 02 | Find the case files [here](https://github.com/GEIGEIGEIST/KLOR/tree/main/case/acrylic) |
 | switch plate           | 02 | 1.5mm switch plate |
-| 7mm M2 standoffs       | 16 | |
-| 6mm M2 screws          | 16 | |
-| 6mm M2 countersunk screws | 16 | The bottom only supports countersunk screws |
+| 9mm M2 standoffs       | 22 | Up to 22 9mm standoffs for the actual case (check the appropiate puzzleguide) |
+| 7mm M2 standoffs       | 12 | 7mm standoffs for holding the PCB in place |
+| 6mm M2 screws          | 56 | Up to 56 regular 6mm M2 screws (check the appropiate puzzleguide) |
+| 5mm M2 wafer head screws | 12 | These screws need a flat head to fit under the acrylic top layer |
 
 
 ## INTRODUCTION
 
 Here is an overview of where and on which side each component needs to be soldered (click on the image to see a larger version).
 
-![KLOR solder guide](/docs/images/solderguide_3DP.png)
+![KLOR solder guide](/docs/images/solderguide_acrylic_ble.png)
 
 To see what component needs to sit where you can take a look at the [interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/GEIGEIGEIST/KLOR/blob/main/docs/klor_rev1-3_ibom.html).
 
 > **Warning**
 > This interactive HTML BOM does show where each component is located, but please still refer to the solder guide above to see if a component needs to go on the front or back of the PCB.
 
-
-Be aware that for the stacked acrylic case some components need to be soldered on the opposite side.\
+Be aware that for the 3D printed case some components need to be soldered on the opposite side.\
 Some people mark the top and bottom with tape to keep track of which side is which, as the PCB is reversible.\
 Beginn with the flat components and progress to the higher ones, ending with the OLEDs and the encoders.
 
@@ -76,7 +75,6 @@ If you choose a layout [other than](/README.md#layouts) Polydactyl you should re
 
 
 You can use a file to smooth out the edges, but you should wear a mask while doing this, since the FR4 dust is considered to be toxic.
-
 
 ***
 
@@ -114,7 +112,6 @@ You can use flush cutters to trim the header pins.
 
 > **Warning**
 > When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise sharp metal pins flying around might hurt you.
-
 
 ***
 
@@ -189,6 +186,10 @@ This graphic shows the order in which the LEDs are chained together.
 ![KLOR LED order](/docs/images/KLOR_LEDorder.png)
 
 
+> **Note**
+> While it's possible to use LEDs in a BLE board be aware that this will hugely decrease your battery life. 
+
+
 ***
 
 ## SWITCH SOCKETS
@@ -203,7 +204,6 @@ Now solder the second pad.
 
 ![switch socket soldered](/docs/images/buildguide/switchsocket.jpg)
 
-
 ***
 
 ## RESET SWITCHES
@@ -212,12 +212,14 @@ The reset switches are a bit fiddly to solder. It helps to apply a really thin f
 
 ![reset switch](/docs/images/buildguide/reset_switch.jpg)
 
-
 ***
 
-## TRRS JACKS
+## TRRS JACKS (optional)
 
-Install the TRRS jack on the top side of the PCB. The place where you should insert it is marked with a white line.
+> **Warning**
+> You don't need the TRRS jacks for running the KLOR with ZMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
+
+Install the TRRS jack on the bottom side of the PCB. The place where you should insert it is marked with a white line.
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
 
 ![TRRS jack taped](/docs/images/buildguide/TRRS_tape.jpg)
@@ -227,47 +229,8 @@ You may want to use some masking tape to hold it in place, since you need to sol
 
 ***
 
-## HAPTIC FEEDBACK (optional)
-
-> **Note**
-> Currently, haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK.
-
-
-Apply some solder to the jumpers on the top to bridge them.
-
-![haptic feedback Jumper](/docs/images/buildguide/haptic_jumper.jpg)
-
-
-Insert the module from below with the motor facing upwards. Then insert the pin headers from below.
-
-![haptic feedback pins](/docs/images/buildguide/haptic_pins.jpg)
-
-
-Now you can solder the pins and use a flush cutter to snap of the excess. Remember to hold your hand above them or wear eye protection while doing so.
-
-![haptic feedback snap of pins](/docs/images/buildguide/haptic_snap.jpg)
-
-
-You can also use a screw and a nut to stabilize the module further. But this step is optional.
-
-![haptic feedback solder](/docs/images/buildguide/haptic_solder.jpg)
-
-
-***
-
-## SPEAKER (optional)
-
-> **Note**
-> Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK. Unfortunately, the audio feature of QMK doesn't work yet with the RP2040.
-
-Soldering the speaker is pretty simple. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. After that apply solder to the other pad.
-
-![speaker](/docs/images/buildguide/speaker.jpg)
-
-
-***
-
 ## TRACKBALL (optional)
+
 > **Note**
 > While the hardware side should already work fine, I still need to add the code for the trackball.
 
@@ -276,6 +239,9 @@ TBA
 ***
 
 ## ENCODERS
+
+> **Note**
+> Currently ZMK only supports encoders on the primary side of split keyboards. 
 
 Mount the rotary encoder on the top side of the PCB. It should click into place maybe requiring a firm press. If it's seated correctly solder the pins on the bottom.
 
@@ -343,14 +309,11 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 This is how your finished PCB probably will look like. You can use an old toothbrush and some isopropanol to clean it from residues. 
 
 ![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
-
+***IMAGE***
 
 ***
 
 ## FIRMWARE
-
-### AVR based ProMicro 
-**e.g. Pro Micro / Elite-C / Puchi-C**
 
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
@@ -387,50 +350,41 @@ Copy the **klor_rp2040_default.uf2** there to flash it.
 
 ***
 
-## 3DP CASE
+## STACKED ACRYLIC CASE
 
-Here you can find the STL files for the case. I got them printed in PA12-HP Nylon (Multi Jet Fusion printing) by [JLCPCB](https://jlcpcb.com/3d-printing), which seemed pretty reasonably priced, for the level of detail.
+> **Note**
+> Since there are a lot of different parts please check the 'puzzle guide' which you can find in the same folder than the case files of your layout. 
 
-![3DP case](/docs/images/buildguide/3DPcase.jpg)
+Screw the standoffs onto the bottom plate. You can find the locastion of the 7mm standoffs and 9mm standoffs in the 'puzzle guide', but as a rule of thumb the 9mm standoffs should be on the outside, holding the case parts, while the 7mm standoffs will hold the PCB and switchplate.\
+(The dark shapes on the bottom are pieces of deskmat, I use as bumpers.) 
 
-
-Insert the PCB first. Starting with inserting the microcontroller in the cutout at the top.
-
-![3DP case insert MCU](/docs/images/buildguide/3DPcase_MCU.jpg)
-
-
-Then lower it into the case. To make it fit, you probably need to bend a bit the part of the case containing the holes for reset switch and TRRS jack.
-
-![3DP case bend](/docs/images/buildguide/3DPcase_finger.jpg)
+![acrylic bottom](/docs/images/buildguide/acrylic_bottom.jpg)
 
 
-The TRRS jack should snap in the provided hole.
+Next you should align the parts of the first layer to the outer standoffs. The parts for the left and right case are interchangeable.
 
-![3DP case trrs](/docs/images/buildguide/3DPcase_trrs.jpg)
-
-
-Insert the standoffs in the PCB and screw them into the bottom of the case using the countersunk screws.
-
-![3DP case standoffs](/docs/images/buildguide/3DPcase_standoffs.jpg)
+![acrylic first layer](/docs/images/buildguide/acrylic_first_layer.jpg)
 
 
-Now you can insert the plate and screw it to the case using the center standoff. 
+Now you can insert the PCB and add the other layers.
 
-![3DP case plate](/docs/images/buildguide/3DPcase_plate.jpg)
+![acrylic all layers](/docs/images/buildguide/acylic_all_layers.jpg)
 
 
-***
+ Align the plate and screw them to the center standoffs.
 
-## ACRYLIC PARTS
+ ![acrylic switchplate](/docs/images/buildguide/acrylic_plate.jpg)
 
-Here you can find the files for the acrylic parts. Made from smokey acrylic (by a lasercutting service) it will hide the OLED, while still allowing it  to shine trough the top layer. It will look best if you can get a pretty dark type, like 7C83 by PlexiGlas (used by formulor.de for example).\
-If you want to get rid of the shine you can carefully sand the parts with some really fine sanding paper (I used a 2000 sanding pad).\
-You need to glue the ring to the top right part using acrylic glue (Acrifix for example). Be careful to apply only a really thin layer using a toothpick.\
-If you choose a case with the KLOR logotype you can emphazise it by retracing it with some sort of white paint marker. Use turpentine or something similar to get rid of the excess paint.
 
-Screw the acrylic parts on top of the plate.
+For this step you need the 5mm wafer head screws, since other screwheads would intersect with the top layer.
 
-![acrylic parts on top of plate](/docs/images/buildguide/3DPcase_acrylic.jpg)
+![wafer head screws](/docs/images/buildguide/flat_screws.jpg)
+
+
+Finally attach the top plate and insert the switches into the plate.
+
+![acrylic top plate](/docs/images/buildguide/acrylic_topplate.jpg)
+
 
 ***
 
@@ -444,6 +398,6 @@ The design works best with 23mm (0.9") diameter encoder knobs. My recomendation 
 
 ## FINAL BUILD
 
-This is how the final keyboard will look like. In this picture I use RAMA Grid keycaps in NOCT.
+This is how the final keyboard will look like. In this picture you see the KLOR saegewerk, with RAMA Grid keycaps in NOCT.
 
-![final KLOR build](/docs/images/buildguide/3DPcase_keycaps.jpg)
+![KLOR acrylic case](/docs/images/buildguide/acrylic_case.jpg)

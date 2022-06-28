@@ -176,7 +176,7 @@ Make sure the solder always builds a strong connection between the pad on the LE
 ![LED connection](/docs/images/buildguide/LED_soldered.jpg)
 
 
-The advantage of soldering in the Microcontroller first is that you can occasionally check if all the LEDs work before continuing. 
+The advantage of soldering in the microcontroller first is that you can occasionally check if all the LEDs work before continuing. 
 
 ![KLOR LED working](/docs/images/buildguide/LED_closeup.jpg)
 
