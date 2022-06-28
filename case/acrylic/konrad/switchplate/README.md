@@ -10,5 +10,5 @@ You can keep the base settings, except of these:
 - Remove Order Number : Yes
 
 <center>
-![switchplate preview](KLOR_konrad_acrylic_case_switchplate.svg)
+<img src="KLOR_konrad_acrylic_case_switchplate.svg" />
 </center>
