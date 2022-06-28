@@ -340,8 +340,8 @@ If you use a metal switch plate consider to cover them with electrical tape to p
 
 This is how your finished PCB probably will look like. You can use an old toothbrush and some isopropanol to clean it from residues. 
 
-![Finished PCB](/docs/images/buildguide/PCB_finished.jpg)
-***IMAGE***
+![Finished PCB](/docs/images/buildguide/PCB_finished_BLE.jpg)
+
 
 ***
 
