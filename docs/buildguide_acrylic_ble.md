@@ -206,6 +206,38 @@ Now solder the second pad.
 
 ***
 
+## POWER SWITCHES
+
+Apply a tiny bit of solder on one of the bigger, outer pads on top of the PCB. The power switch has some tiny knobs on its bottom, which fits into the PCB holes. Hold it in place with tweezers and than reheat the solder on the pad. After this you can solder the other pad and the three pins.
+
+![power switch](/docs/images/buildguide/power_switch.jpg)
+
+***
+
+## JST JACKS (optional)
+
+Insert the legs of the JST jack into the bottom of the PCB with the open side facing inwards
+
+![JST jack](/docs/images/buildguide/JST_connector.jpg)
+
+
+Now use some masking tape to keep it in place, since you need to solder it from the top.
+
+![JST tape](/docs/images/buildguide/JST_tape.jpg)
+
+
+You also need to bridge the jumpers next to the connector to make it work.
+
+![JST brigded jumpers](/docs/images/buildguide/JST_bridge.jpg)
+
+
+> **Note**
+> While it's easier to swap out batteries if they already got a JST-PH connector you can also solder the battery to the + RED and - BLACK pinholes. This way you don't need to bridge the jumpers.
+
+![battery connector](/docs/images/buildguide/batteryconnector.jpg)
+
+***
+
 ## RESET SWITCHES
 
 The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the pads first. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly reheat the solder pads under the switch to connect it. 
@@ -316,36 +348,8 @@ This is how your finished PCB probably will look like. You can use an old toothb
 ## FIRMWARE
 
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
-[Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
-Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
-Then use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
-
-``qmk compile -kb klor -km default`` 
-
-This will create a file called **klor_default.hex** in your **qmk_firmware** folder.\
-Open [QMK Toolbox](https://github.com/qmk/qmk_toolbox) and locate the **klor_default.hex** file.\
-Connect the ProMicro/keyboard and press the reset button (or connect the RST and GND pins on the ProMicro). QMK toolbox should show a connected device.\
-Press **flash** in QMK toolbox to flash the firmware on your microcontroller.
-
-![QMK toolbox](/docs/images/buildguide/qmk_toolbox.jpg)
-
-
-
-### RP2040 ProMicro 
-**e.g. Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
-
-For now you can't use the official QMK version with the RP2040. Instead you should use [this PR](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).\
-Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
-Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
-
-``qmk compile -kb klor/rp2040 -km default``
-
-This will create a file called **klor_rp2040_default.uf2** in your **qmk_firmware** folder.\
-The first time you need to keep boot pressed, then press reset and release boot. This will open the flash memory of your MicroController as device in your OS.\
-Copy the **klor_rp2040_default.uf2** there to flash it. 
-
-> **Note**
-> After flashing the firmware the first time you can access the flash memory by double pressing the reset button on your keyboard or define a software reset key by using **QK_boot** as keycode.
+[Here](https://github.com/GEIGEIGEIST/zmk-config-klor) you can find the ZMK firmware for the KLOR.\
+You need to create an own fork of it. In this fork you can edit the keymap to trigger an Github action, which will create your firmware. 
 
 
 ***
