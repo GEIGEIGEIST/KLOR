@@ -9,6 +9,6 @@ You can keep the base settings, except of these:
 - PCB Color : Black
 - Remove Order Number : Yes
 
-<p align="center">
+<center>
 ![switchplate preview](KLOR_konrad_acrylic_case_switchplate.svg)
-</p>
+</center>
