@@ -383,6 +383,38 @@ Copy the **klor_rp2040_default.uf2** there to flash it.
 
 ## STACKED ACRYLIC CASE
 
+> **Note**
+> Since there are a lot of different parts please check the 'puzzle guide' which you can find in the same folder than the case files of your layout. 
+
+Screw the standoffs onto the bottom plate. You can find the locastion of the 7mm standoffs and 9mm standoffs in the 'puzzle guide', but as a rule of thumb the 9mm standoffs should be on the outside, holding the case parts, while the 7mm standoffs will hold the PCB and switchplate.\
+(The dark shapes on the bottom are pieces of deskmat, I use as bumpers.) 
+
+![acrylic bottom](/docs/images/buildguide/acrylic_bottom.jpg)
+
+
+Next you should align the parts of the first layer to the outer standoffs. The parts for the left and right case are interchangeable.
+
+![acrylic first layer](/docs/images/buildguide/acrylic_first_layer.jpg)
+
+
+Now you can insert the PCB and add the other layers.
+
+![acrylic all layers](/docs/images/buildguide/acylic_all_layers.jpg)
+
+
+ Align the plate and screw them to the center standoffs.
+
+ ![acrylic switchplate](/docs/images/buildguide/acrylic_plate.jpg)
+
+
+For this step you need the 5mm wafer head screws, since other screwheads would intersect with the top layer.
+
+![wafer head screws](/docs/images/buildguide/flat_screws.jpg)
+
+
+Finally attach the top plate and insert the switches into the plate.
+
+![acrylic top plate](/docs/images/buildguide/acrylic_topplate.jpg)
 
 
 ***
