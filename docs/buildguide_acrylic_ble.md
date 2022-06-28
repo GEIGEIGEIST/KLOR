@@ -232,7 +232,7 @@ You also need to bridge the jumpers next to the connector to make it work.
 
 
 > **Note**
-> While it's easier to swap out batteries if they already got a JST-PH connector you can also solder the battery to the + RED and - BLACK pinholes. This way you don't need to bridge the jumpers.
+> While it's easier to swap out batteries if they already got a JST-PH connector you can also solder the battery to the **+ RED** and **- BLACK** pinholes. This way you don't need to bridge the jumpers.
 
 ![battery connector](/docs/images/buildguide/batteryconnector.jpg)
 
