@@ -26,7 +26,7 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 ## SWITCHPLATE
 
-In every case directory you'll find the matching switchplates as **.dxf**, **.svg** and **.zip** containing gerber files for a FR4 plate.
+In every case directory you'll find the matching switchplates as **.dxf**, **.svg** and a **.zip**-file, containing gerber files for a FR4 plate.
 
 
 ## BUILD GUIDE
