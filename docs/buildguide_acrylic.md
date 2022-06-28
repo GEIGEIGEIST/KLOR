@@ -53,6 +53,11 @@ Here is an overview of where and on which side each component needs to be solder
 
 ![KLOR solder guide](/docs/images/solderguide_acrylic.png)
 
+To see what component needs to sit where you can take a look at the [interactive HTML BOM](klor_rev1-3_ibom.html).
+
+> **Warning**
+> This interactive HTML BOM does show where each component is located, but please still refer to the solder guide above to see if a component needs to go on the front or back of the PCB.
+
 Be aware that for the 3D printed case some components need to be soldered on the opposite side.\
 Some people mark the top and bottom with tape to keep track of which side is which, as the PCB is reversible.\
 Beginn with the flat components and progress to the higher ones, ending with the OLEDs and the encoders.
