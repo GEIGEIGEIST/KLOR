@@ -365,7 +365,6 @@ Press **flash** in QMK toolbox to flash the firmware on your microcontroller.
 ### RP2040 ProMicro 
 **e.g. Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
 
-For now you can't use the official QMK version with the RP2040. Instead you should use [this PR](https://github.com/KarlK90/qmk_firmware/tree/feature/raspberry-pi-rp2040-support).\
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
 Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
 
