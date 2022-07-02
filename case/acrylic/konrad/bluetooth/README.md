@@ -2,8 +2,8 @@
 
 You can choose a bottom which supports the SplitKB tenting puck or a top which features the KLOR logotype. The rest of the layers are identical.\
 
-<img alt="konrad bluetooth" width="49%" src="/case/docs/images/konrad_acryl_ble.png" title="konrad bluetooth" />
-<img alt="konrad bluetooth puck" width="49%" src="/case/docs/images/konrad_acryl_ble_puck.png" title="konrad bluetooth puck" />
+<img alt="konrad bluetooth" width="49%" src="/case/docs/images/konrad_acryl_ble.png" />
+<img alt="konrad bluetooth puck" width="49%" src="/case/docs/images/konrad_acryl_ble_puck.png" />
 
 
 The middle layers got two cuts, which should make it possible to use less acrylic and make it a lot cheaper to cut.\
