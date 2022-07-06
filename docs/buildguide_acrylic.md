@@ -349,7 +349,7 @@ This is how your finished PCB probably will look like. You can use an old toothb
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-klor) you can find the QMK firmware for the KLOR.\
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
-Then use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
+Then use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command:
 
 ``qmk compile -kb klor -km default`` 
 
@@ -366,7 +366,7 @@ Press **flash** in QMK toolbox to flash the firmware on your microcontroller.
 **e.g. Adafruit KB2040 / Sparkfun Pro Micro RP2040 / Boardsource Blok / Elite-Pi / Sea-Picro**
 
 Copy the **klor** folder into the **keyboards** directory of your qmk installation.\
-Than use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command.\
+Then use [QMK MSYS](https://msys.qmk.fm/) (or the command line tool of your choice) to compile it with this command:
 
 ``qmk compile -kb klor/rp2040 -km default``
 
