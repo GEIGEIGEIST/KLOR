@@ -71,3 +71,6 @@ People which helped me creating this board and fixing stuff
 - [OxCB](https://github.com/0xCB-dev)
 - [MicroFortnight](https://github.com/microfortnight)
 - [dreipunkteinsvier](https://github.com/dreipunkteinsvier)
+
+
+If you build a KLOR I would be pretty happy to see some pictures.
