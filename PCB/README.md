@@ -1,10 +1,10 @@
 # KLOR PCB FILES
 
 ## MANUFACTURING
-If you want to get the PCB made you need to add the files in the [gerbers folder](/PCB/klor1_3/gerbers/) to a ZIP file and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
+If you want to get the PCB made you need to download the [ZIP](/PCB/klor1_3/KLOR_1-3_gerbers.zip/) and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
 
-- create a ZIP file from the [gerbers folder](/PCB/klor1_3/gerbers/)
-- upload the ZIP
+- download [the ZIP file](/PCB/klor1_3/KLOR_1-3_gerbers.zip/)
+- upload the ZIP file
 - sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use this dimensions: 159.8 mm* 118 mm
 - PCB Thickness 1.6mm
 - 2 layers
