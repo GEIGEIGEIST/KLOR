@@ -22,7 +22,7 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 ▲ KLOR polydactyl with 3DP case and DES keycaps.
 
-
+***
 
 ![KLOR saegewerk](/docs/images/KLOR_saegewerk_GRID01.jpg)
 
