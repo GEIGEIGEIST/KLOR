@@ -6,19 +6,28 @@
 
 # KLOR SPLIT KEYBOARD
 
-
-![KLOR polydactyl](/docs/images/KLOR_polydactyl_DES01.jpg)
-
-
-![KLOR polydactyl](/docs/images/KLOR_polydactyl_DES02.jpg)
-
-
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, speakers, a Pixart Paw3204 trackball, the [SplitKB tenting puck](https://splitkb.com/products/tenting-puck) and four different layouts, through brake off parts.
 
 
 ## LAYOUTS
 
 ![KLOR layouts](/docs/images/klor-layouts.svg)
+
+
+## IMAGES
+
+![KLOR polydactyl](/docs/images/KLOR_polydactyl_DES01.jpg)
+
+![KLOR polydactyl](/docs/images/KLOR_polydactyl_DES02.jpg)
+
+KLOR polydactyl with 3DP case and DES keycaps.
+
+
+![KLOR saegewerk](/docs/images/KLOR_saegewerk_GRID01.jpg)
+
+![KLOR saegewerk](/docs/images/KLOR_saegewerk_GRID02.jpg)
+
+KLOR saegewerk with stacked acrylic case and GRID keycaps.
 
 
 ## PCB 
