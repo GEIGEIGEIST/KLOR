@@ -8,11 +8,13 @@
 
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, speakers, a Pixart Paw3204 trackball, the [SplitKB tenting puck](https://splitkb.com/products/tenting-puck) and four different layouts, through brake off parts.
 
+***
 
 ## LAYOUTS
 
 ![KLOR layouts](/docs/images/klor-layouts.svg)
 
+***
 
 ## IMAGES
 
@@ -30,21 +32,25 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 ▲ KLOR saegewerk with stacked acrylic case and GRID keycaps.
 
+***
 
 ## PCB 
 
 [Here](/PCB/) you can find the KiCad files and Gerbers for the KLOR. 
 
+***
 
 ## CASE
 
 [Here](/case/) are the case files for the KLOR. There is an acrylic case and a 3D printed case (which uses acrylic too) for every layout.
 
+***
 
 ## SWITCHPLATE
 
 In every case directory you'll find the matching switchplates as **.dxf**, **.svg**, **.stl** and a **.zip**-file, containing gerber files for a FR4 plate.
 
+***
 
 ## BUILD GUIDE
 
@@ -54,6 +60,7 @@ Here you can find the build guides for the KLOR.\
 [KLOR BLE build guide 3DP case](/docs/buildguide_3DP_ble.md) (ZMK)\
 [KLOR BLE build guide stacked acrylic case](/docs/buildguide_acrylic_ble.md) (ZMK)
 
+***
 
 ## FIRMWARE
 
@@ -61,6 +68,7 @@ Here you can find the build guides for the KLOR.\
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) for the KLOR (supports OLED, encoders, LEDs and Bluetooth)\
 Thaks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
+***
 
 ## CREDITS
 
