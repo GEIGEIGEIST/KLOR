@@ -208,7 +208,7 @@ Now solder the second pad.
 
 ## RESET SWITCHES
 
-The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the pads first. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly reheat the solder pads under the switch to connect it. 
+The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the pads first and use a lof of flux. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly reheat the solder pads under the switch to connect it. 
 
 ![reset switch](/docs/images/buildguide/reset_switch.jpg)
 
@@ -258,7 +258,7 @@ You can also use a screw and a nut to stabilize the module further. But this ste
 ## SPEAKER (optional)
 
 > **Note**
-> Currently haptic feedback only works on the primary side of your keyboard, which is a limitation of QMK. Unfortunately, the audio feature of QMK doesn't work yet with the RP2040.
+> Currently the speaker only works on the primary side of your keyboard, which is a limitation of QMK. Currently you need to use [this PR](https://github.com/qmk/qmk_firmware/pull/17723) to make the audio feature work with the RP2040.
 
 Soldering the speaker is pretty simple. Apply a tiny bit solder on one of the pads, use tweezers to hold the speaker in place and reheat the solder. After that apply solder to the other pad.
 
