@@ -1,7 +1,7 @@
 # KLOR PCB FILES
 
 ## MANUFACTURING
-If you want to get the PCB made you need to download the [ZIP](/PCB/klor1_3/KLOR_1-3_gerbers.zip/) and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) for example).
+If you want to get the PCB made you need to download the [ZIP](/PCB/klor1_3/KLOR_1-3_gerbers.zip/) and upload it to the website of the manufacture ([JLCPCB](https://jlcpcb.com/) of [PCBway](https://www.pcbway.com/) for example).
 
 - download [the ZIP file](/PCB/klor1_3/KLOR_1-3_gerbers.zip/)
 - upload the ZIP file
