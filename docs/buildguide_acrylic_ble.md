@@ -16,7 +16,7 @@
 | reset button  | 02 | Alps SKRTLAE010 |
 | power switch  | 02 | MSK12C02 |
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
-| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. 
+| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/readme.md) I designed for the KLOR, based on the kilo knob. 
 | Lipo battery  | 02 | 
 | USB cable     | 01 | For connecting the keyboard with your PC |
 
