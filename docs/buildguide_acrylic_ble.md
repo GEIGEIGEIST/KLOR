@@ -6,7 +6,7 @@
 
 | Part name     | Count | Remarks | 
 | :------------ | :---: | :------ |
-| KLOR PCB      | 02 | You can find the files for it [here](/PCB/readme.md) |
+| KLOR PCB      | 02 | You can find the files for it [here](PCB/readme.md) |
 | Nice!Nano     | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
 | MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk |
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
@@ -16,7 +16,7 @@
 | reset button  | 02 | Alps SKRTLAE010 |
 | power switch  | 02 | MSK12C02 |
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
-| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/readme.md) I designed for the KLOR, based on the kilo knob. 
+| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](knob/readme.md) I designed for the KLOR, based on the kilo knob. 
 | Lipo battery  | 02 | 
 | USB cable     | 01 | For connecting the keyboard with your PC |
 
@@ -40,7 +40,7 @@
 
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
-| acrylic parts          | 02 | Find the case files [here](https://github.com/GEIGEIGEIST/KLOR/tree/main/case/acrylic) |
+| acrylic parts          | 02 | Find the case files [here](case/acrylic) |
 | switch plate           | 02 | 1.5mm switch plate |
 | 9mm M2 standoffs       | 22 | Up to 22 9mm standoffs for the actual case (check the appropiate puzzleguide) |
 | 7mm M2 standoffs       | 12 | 7mm standoffs for holding the PCB in place |
