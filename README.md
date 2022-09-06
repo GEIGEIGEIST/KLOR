@@ -52,6 +52,12 @@ In every case directory you'll find the matching switchplates as **.dxf**, **.sv
 
 ***
 
+## KNOB
+
+You can use pretty much any knob, which works with EC11 encoder, but [here](/knob/) you can find one, I designed for the KLOR.
+
+***
+
 ## BUILD GUIDE
 
 Here you can find the build guides for the KLOR.\
