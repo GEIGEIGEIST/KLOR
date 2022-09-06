@@ -40,7 +40,7 @@
 
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
-| acrylic parts          | 02 | Find the case files [here](../case/acrylic) |
+| acrylic parts          | 02 | Find the case files [here](/case/acrylic/) |
 | switch plate           | 02 | 1.5mm switch plate |
 | 9mm M2 standoffs       | 22 | Up to 22 9mm standoffs for the actual case (check the appropiate puzzleguide) |
 | 7mm M2 standoffs       | 12 | 7mm standoffs for holding the PCB in place |
