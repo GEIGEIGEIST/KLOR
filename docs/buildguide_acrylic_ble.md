@@ -116,32 +116,6 @@ You can use flush cutters to trim the header pins.
 
 ***
 
-## DIODES
-
-The diodes needs to be soldered on the bottomm of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
-  <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
-</picture>
-</p>
-
-Apply a small amount of solder on one pad.
-
-![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
-
-
-Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
-
-![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
-
-
-Now you can solder the second pad.
-
-***
-
 ## LEDS (optional)
 
 > **Note**
@@ -190,6 +164,31 @@ This graphic shows the order in which the LEDs are chained together.
 > **Note**
 > While it's possible to use LEDs in a BLE board be aware that this will hugely decrease your battery life. 
 
+***
+
+## DIODES
+
+The diodes needs to be soldered on the bottomm of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/diodes_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/diodes_bright.svg">
+  <img alt="diode orientation" src="/docs/images/buildguide/diodes_dark.svg">
+</picture>
+</p>
+
+Apply a small amount of solder on one pad.
+
+![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
+
+
+Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
+
+![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
+
+
+Now you can solder the second pad.
 
 ***
 
