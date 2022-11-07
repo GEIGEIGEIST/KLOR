@@ -1,6 +1,7 @@
 # KLOR SAEGEWERK BLE STACKED ACRYLIC CASE
 
 You can choose a bottom which supports the SplitKB tenting puck or a top which features the KLOR logotype. The rest of the layers are identical.\
+The thickness of the acrylic should be 3mm.\
 
 ![konrad](/case/docs/images/saegewerk_acryl_ble.png)
 ![konrad puck](/case/docs/images/saegewerk_acryl_ble_puck.png)

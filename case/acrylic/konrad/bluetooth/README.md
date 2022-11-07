@@ -1,6 +1,7 @@
 # KLOR KONRAD BLE STACKED ACRYLIC CASE
 
 You can choose a bottom which supports the SplitKB tenting puck or a top which features the KLOR logotype. The rest of the layers are identical.\
+The thickness of the acrylic should be 3mm.\
 
 ![konrad bluetooth](/case/docs/images/konrad_acryl_ble.png)
 ![konrad bluetooth puck](/case/docs/images/konrad_acryl_ble_puck.png)
