@@ -29,7 +29,7 @@
 | MCU pins               | 48 | In combinatin with the MCU sockets |
 | JST Jack               | 02 | JST PH |
 | SK6812 Mini LED (not Mini-E)        | 42 | 40 LEDs for Konrad / 38 LEDs for Yubitsume / 36 LEDs for Saegewerk |
-| TRRS jack              | 02 | You can add TRRS jacks, so you can swap out the Microcontroller to make it a wired board |
+| TRRS jack              | 02 | MJ-4PP-9 or PJ320A You can add TRRS jacks, so you can swap out the Microcontroller to make it a wired board |
 | TRRS cable             | 01 | See TRRS jack |
 | [trackball](https://bit-trade-one.co.jp/selfmadekb/adtb7m/) | 01 | Pixart PAW3204OA. Available at [Yushakobo](https://shop.yushakobo.jp/products/adtb7m) |
 | [level converter](https://github.com/sekigon-gonnoc/LevelConverterForTrackballModule) | 01 | Needed to use the trackball. You can get it from [Yushakobo](https://shop.yushakobo.jp/products/a0800tl-01-1/) |
@@ -42,8 +42,8 @@
 | :--------------------- | :---: | :------ |
 | acrylic parts          | 02 | Find the case files [here](/case/acrylic/) |
 | switch plate           | 02 | 1.5mm switch plate |
-| 9mm M2 standoffs       | 22 | Up to 22 9mm standoffs for the actual case (check the appropiate puzzleguide) |
-| 7mm M2 standoffs       | 12 | 7mm standoffs for holding the PCB in place |
+| 9mm M2 standoffs       | 22 | Up to 22 9mm round standoffs for the actual case (check the appropiate puzzleguide) |
+| 7mm M2 standoffs       | 12 | 7mm round standoffs for holding the PCB in place |
 | 6mm M2 screws          | 56 | Up to 56 regular 6mm M2 screws (check the appropiate puzzleguide) |
 | 5mm M2 wafer head screws | 12 | These screws need a flat head to fit under the acrylic top layer |
 

@@ -14,7 +14,7 @@
 | 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
 | OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
 | reset button  | 02 | Alps SKRTLAE010 |
-| TRRS jack     | 02 | |
+| TRRS jack     | 02 | MJ-4PP-9 or PJ320A |
 | TRRS cable    | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex)|
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
 | encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/) I designed for the KLOR, based on the kilo knob. 
@@ -41,8 +41,8 @@
 | :--------------------- | :---: | :------ |
 | acrylic parts          | 02 | Find the case files [here](/case/acrylic/) |
 | switch plate           | 02 | 1.5mm switch plate |
-| 9mm M2 standoffs       | 22 | Up to 22 9mm standoffs for the actual case (check the appropiate puzzleguide) |
-| 7mm M2 standoffs       | 12 | 7mm standoffs for holding the PCB in place |
+| 9mm M2 standoffs       | 22 | Up to 22 9mm round standoffs for the actual case (check the appropiate puzzleguide) |
+| 7mm M2 standoffs       | 12 | 7mm round standoffs for holding the PCB in place |
 | 6mm M2 screws          | 56 | Up to 56 regular 6mm M2 screws (check the appropiate puzzleguide) |
 | 5mm M2 wafer head screws | 12 | These screws need a flat head to fit under the acrylic top layer |
 

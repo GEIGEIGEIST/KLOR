@@ -14,7 +14,7 @@
 | 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
 | OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
 | reset button  | 02 | Alps SKRTLAE010 |
-| TRRS jack     | 02 | |
+| TRRS jack     | 02 | MJ-4PP-9 or PJ320A |
 | TRRS cable    | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex)|
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
 | encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/) I designed for the KLOR, based on the kilo knob. 
@@ -42,7 +42,7 @@
 | 3D printed case        | 02 | Find the case files [here](/case/3DP) |
 | acrylic parts          | 02 | Three parts and one ring per side |
 | switch plate           | 02 | 1.5mm switch plate |
-| 7mm M2 standoffs       | 16 | |
+| 7mm M2 standoffs       | 16 | round |
 | 6mm M2 screws          | 16 | |
 | 6mm M2 countersunk screws | 16 | The bottom only supports countersunk screws |
 
