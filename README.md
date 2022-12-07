@@ -98,4 +98,4 @@ People which helped me creating this board and fixing stuff
 - [dreipunkteinsvier](https://github.com/dreipunkteinsvier)
 
 
-If you build a KLOR I would be pretty happy to see some pictures.
+If you build a KLOR I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
