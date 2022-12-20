@@ -208,7 +208,7 @@ Now solder the second pad.
 
 ## RESET SWITCHES
 
-The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the pads first and use a lof of flux. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly reheat the solder pads under the switch to connect it. 
+The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the outer pads first. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly flip the PCB and solder the pads in the middle from below.
 
 ![reset switch](/docs/images/buildguide/reset_switch.jpg)
 
