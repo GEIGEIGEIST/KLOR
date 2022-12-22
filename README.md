@@ -72,7 +72,7 @@ Here you can find the build guides for the KLOR.\
 
 [QMK config](https://github.com/GEIGEIGEIST/qmk-config-klor) (supports OLED, encoders, LEDs, haptic feedback and speakers)\
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-klor) (supports OLED, encoder, LEDs and Bluetooth)\
-[KMK config](https://github.com/moritz-john/kmk-config-klor) (supports encoder) made by [Moritz John](https://github.com/moritz-john)\
+[KMK config](https://github.com/moritz-john/kmk-config-klor) (supports OLED, encoders) made by [Moritz John](https://github.com/moritz-john)\
 Thanks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
 
 ***
