@@ -77,6 +77,13 @@ Thanks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in
 
 ***
 
+### CHOC/KS27 VERSION
+
+[Sadek Baroudi](https://github.com/sadekbaroudi) did an amazing job in creating a version of the KLOR which supports KS-27 and Choc V1 switches. Inluding a special case for it.\
+[KLOR Sadek KS-27 and Choc V1 mod](https://github.com/sadekbaroudi/KLOR)
+
+***
+
 ## CREDITS
 
 The KLORs hardware is based on the [Sofle](https://github.com/josefadamcik/SofleKeyboard) by [Josef Adamcik](https://github.com/josefadamcik).\
