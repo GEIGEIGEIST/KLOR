@@ -6,7 +6,7 @@
 
 # KLOR SPLIT KEYBOARD
 
-KLOR is a 36-42 key column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, speakers, a Pixart Paw3204 trackball, the [SplitKB tenting puck](https://splitkb.com/products/tenting-puck) and four different layouts, through break off parts.
+KLOR is a 36-42 key column-staggered split keyboard. It supports a per-key RGB matrix, encoders, OLED displays, haptic feedback, speakers, a Pixart Paw3204 trackball, the [SplitKB tenting puck](https://splitkb.com/products/tenting-puck), and four different layouts, through break-off parts.
 
 ***
 
@@ -48,13 +48,13 @@ KLOR is a 36-42 key column-staggered split keyboard. It supports a per key RGB m
 
 ## SWITCHPLATE
 
-In every case directory you'll find the matching switchplates as **.dxf**, **.svg**, **.stl** and a **.zip**-file, containing gerber files for a FR4 plate.
+In every case directory you'll find the matching switchplates as **.dxf**, **.svg**, **.stl**, and a **.zip**-file, containing gerber files for a FR4 plate.
 
 ***
 
 ## KNOB
 
-You can use pretty much any knob, which works with EC11 encoder, but [here](/knob/) you can find one, I designed for the KLOR.
+You can use pretty much any knob, which works with the EC11 encoder, but [here](/knob/) you can find one, I designed for the KLOR.
 
 ***
 
@@ -79,7 +79,7 @@ Thanks to [Manna Harbour](https://github.com/manna-harbour) you can find KLOR in
 
 ## CHOC/KS27 VERSION
 
-[Sadek Baroudi](https://github.com/sadekbaroudi) did an amazing job in creating a version of the KLOR which supports KS-27 and Choc V1 switches. Inluding a special case for it.\
+[Sadek Baroudi](https://github.com/sadekbaroudi) did an amazing job in creating a version of the KLOR which supports KS-27 and Choc V1 switches. Including a special case for it.\
 [KLOR Sadek KS-27 and Choc V1 mod](https://github.com/sadekbaroudi/KLOR)
 
 ***
@@ -98,7 +98,7 @@ I used the Pimoroni Haptic Buzz Footprint from the [Buzzard](https://github.com/
 
 ***
 
-People which helped me creating this board and fixing stuff
+People who helped me create this board and fix stuff
 - [KarlK90](https://github.com/KarlK90)
 - [MangoIV](https://github.com/MangoIV)
 - [OxCB](https://github.com/0xCB-dev)
